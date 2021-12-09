@@ -1,5 +1,7 @@
 ### Hi there 👋
+![Metrics](https://github.com/sangshuduo/sangshuduo/blob/main/github-metrics.svg)
 
+[![SangShuduo's GitHub stats](https://github-readme-stats.vercel.app/api?username=sangshuduo)](https://github.com/sangshuduo)
 <!--
 **sangshuduo/sangshuduo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
