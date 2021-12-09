@@ -1,6 +1,6 @@
 ### Hi there 👋
 <!-- If you're using "main" as default branch -->
-![Metrics](https://metrics.lecoq.io/sangshuduo?template=classic&isocalendar=1&stackoverflow=1&tweets=1&isocalendar.duration=full-year&tweets.attachments=false&tweets.limit=2&tweets.user=sangshuduo&stackoverflow.user=2154069&stackoverflow.sections=answers-top%2C%20questions-recent&stackoverflow.limit=2&stackoverflow.lines=4&stackoverflow.lines.snippet=2&config.timezone=Asia%2FShanghai)
+![Metrics](https://metrics.lecoq.io/sangshuduo?template=classic&isocalendar=1&stackoverflow=1&tweets=1&languages=1&stars=1&people=1&followup=1&lines=1&isocalendar.duration=full-year&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=true&languages.analysis.timeout=30&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&stars.limit=4&people.limit=24&people.size=28&people.types=followers%2C%20following&people.identicons=false&people.shuffle=false&followup.sections=repositories&tweets.attachments=false&tweets.limit=2&tweets.user=sangshuduo&stackoverflow.user=2154069&stackoverflow.sections=answers-top%2C%20questions-recent&stackoverflow.limit=2&stackoverflow.lines=4&stackoverflow.lines.snippet=2&config.timezone=Asia%2FShanghai)
 
 [![SangShuduo's GitHub stats](https://github-readme-stats.vercel.app/api?username=sangshuduo)](https://github.com/sangshuduo)
 <!--
