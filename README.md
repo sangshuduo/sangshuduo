@@ -1,6 +1,6 @@
 ### Hi there 👋
 <!-- If you're using "main" as default branch -->
-![Metrics](https://github.com/sangshuduo/sangshuduo/blob/main/github-metrics.svg)
+![Metrics](https://metrics.lecoq.io/sangshuduo?template=classic&config.timezone=Asia%2FShanghai)
 
 
 [![SangShuduo's GitHub stats](https://github-readme-stats.vercel.app/api?username=sangshuduo)](https://github.com/sangshuduo)
