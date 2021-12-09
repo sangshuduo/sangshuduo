@@ -19,6 +19,7 @@ jobs:
           user: sangshuduo
           template: classic
           base: header, activity, community, repositories, metadata
+          commits_authoring: sangshuduo@gmail.com
           config_timezone: Asia/Shanghai
           plugin_achievements: yes
           plugin_achievements_display: detailed
@@ -42,15 +43,13 @@ jobs:
           plugin_languages_recent_load: 300
           plugin_languages_sections: most-used
           plugin_languages_threshold: 0%
+          plugin_lines: yes
           plugin_notable: yes
           plugin_notable_from: organization
           plugin_people: yes
           plugin_people_limit: 24
           plugin_people_size: 28
           plugin_people_types: followers, following
-          plugin_posts: yes
-          plugin_posts_limit: 4
-          plugin_posts_user: .sangshuduo.login
           plugin_projects: yes
           plugin_projects_limit: 4
           plugin_stackoverflow: yes
@@ -58,10 +57,14 @@ jobs:
           plugin_stackoverflow_lines: 4
           plugin_stackoverflow_lines_snippet: 2
           plugin_stackoverflow_sections: answers-top, questions-recent
+          plugin_stackoverflow_user: 2154069
+          plugin_stargazers: yes
+          plugin_stars: yes
+          plugin_stars_limit: 4
           plugin_topics: yes
           plugin_topics_limit: 15
           plugin_topics_mode: starred
           plugin_topics_sort: stars
           plugin_tweets: yes
           plugin_tweets_limit: 2
-          plugin_tweets_user: .sangshuduo.twitter
+          plugin_tweets_user: sangshuduo
