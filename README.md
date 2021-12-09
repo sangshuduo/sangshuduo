@@ -1,5 +1,7 @@
 ### Hi there 👋
+<!-- If you're using "main" as default branch -->
 ![Metrics](https://github.com/sangshuduo/sangshuduo/blob/main/github-metrics.svg)
+
 
 [![SangShuduo's GitHub stats](https://github-readme-stats.vercel.app/api?username=sangshuduo)](https://github.com/sangshuduo)
 <!--
