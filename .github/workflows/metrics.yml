@@ -169,13 +169,6 @@
     plugin_contributors_contributions: # optional
     # Sections to display
     plugin_contributors_sections: # optional, default is contributors
-    # Contributions categories
-    plugin_contributors_categories: # optional, default is {
-      "📚 Documentation": ["README.md", "docs/**"],
-      "💻 Code": ["source/**", "src/**"],
-      "#️⃣ Others": ["*"]
-    }
-
     # Display follow-up of repositories issues and pull requests
     plugin_followup: # optional
     # Sections to display
