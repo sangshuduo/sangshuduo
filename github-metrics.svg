@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="3110" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="3431" class="">
     <defs>
         <style/>
     </defs>
@@ -3961,6 +3961,125 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
+                      Pushed 31 commits in <span class="repo">taosdata/TDengine</span>
+                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">enhance/sangshuduo/TD-12104-donot-build-taostools</span></div>
+                                    <div class="commit">
+                                        <span class="sha">#a639d0d</span>
+                                        <span class="message">Merge pull request #9081 from taosdata/tomchon-patch-12
+
+Delete json_tag_extra.py</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#6a48fac</span>
+                                        <span class="message">Merge pull request #9071 from taosdata/TD-11389_test_case
+
+[TD-11389]&lt;test&gt; add test case for TD-11389, an bug about cache</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#e6db834</span>
+                                        <span class="message">Delete json_tag_extra.py</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#3e5db9a</span>
+                                        <span class="message">[TS-854]&lt;test&gt;: add more test case for batch insert</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#6eea9af</span>
+                                        <span class="message">Merge branch 'develop' into xiaoping/add_test_case</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#9aefe8a</span>
+                                        <span class="message">[TD-11389]&lt;test&gt; add test case for TD-11389, an bug about cache when query data ;</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#ca2d232</span>
+                                        <span class="message">[TS-854]&lt;test&gt;: add test case for batch insert</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#03d81cd</span>
+                                        <span class="message">Merge branch 'develop' into xiaoping/add_test_case</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#6a0ee8f</span>
+                                        <span class="message">make jenkins happy</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#de02206</span>
+                                        <span class="message">[TD-12057]Adjust catalog collection logic</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#111b7f9</span>
+                                        <span class="message">Merge branch 'develop' into fix/TD-11891</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#380065e</span>
+                                        <span class="message">[TD-11377]&lt;feature&gt;: added a variable to accelerate exiting of dropped dnode</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#aed5160</span>
+                                        <span class="message">[TD-11891]&lt;fix&gt;: where condition invalid expression error msg wrongly reported as 'not support ordinary column join'</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#496dab6</span>
+                                        <span class="message">Bump log4j-core in /tests/examples/JDBC/connectionPools
+
+Bumps log4j-core from 2.14.1 to 2.15.0.
+
+---
+updated-dependencies:
+- dependency-name: org.apache.logging.log4j:log4j-core
+  dependency-type: direct:production
+...
+
+Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#0cbcb0f</span>
+                                        <span class="message">Bump log4j-core from 2.14.1 to 2.15.0 in /tests/examples/JDBC/taosdemo
+
+Bumps log4j-core from 2.14.1 to 2.15.0.
+
+---
+updated-dependencies:
+- dependency-name: org.apache.logging.log4j:log4j-core
+  dependency-type: direct:production
+...
+
+Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#e43d391</span>
+                                        <span class="message">[TD-11891]&lt;fix&gt;: where condition invalid expression error msg wrongly reported as 'not support ordinary column join'</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#d4854c2</span>
+                                        <span class="message">[TD-11891]&lt;fix&gt;: where condition invalid expression error msg wrongly reported as 'not support ordinary column join'</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#2d8238b</span>
+                                        <span class="message">test</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#43abbcb</span>
+                                        <span class="message">[TD-11377]&lt;feature&gt;: added a parameter for k8s</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#7d3823e</span>
+                                        <span class="message">[TD-10739]&lt;test&gt;: add test case for interp</span>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
                       Pushed 1 commit in <span class="repo">taosdata/TDengine</span>
                     </div>
                                 </div>
@@ -4039,25 +4158,6 @@
                                 <div class="details">
                                     <div>opened by xleili in <span class="repo">taosdata/TDengine</span></div>
                                     <div>3 files changed <span class="code">++6 --5</span></div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                      Pushed 1 commit in <span class="repo">taosdata/taos-tools</span>
-                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">hotfix/sangshuduo/TD-11811-save-tags-with-avro</span></div>
-                                    <div class="commit">
-                                        <span class="sha">#fa9ab45</span>
-                                        <span class="message">normal table dump in works.</span>
-                                    </div>
                                 </div>
                             </section>
                         </div>
@@ -4726,7 +4826,7 @@ To learn more, run the command again with --verbose.
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 15 Dec 2021, 09:55:37 (timezone Asia/Shanghai) with lowlighter/metrics@3.16.0</span>
+                <span>Last updated 15 Dec 2021, 10:28:40 (timezone Asia/Shanghai) with lowlighter/metrics@3.16.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
