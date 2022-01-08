@@ -2462,7 +2462,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>errata-ai/vale</span>
-                                        <span>starred 4 hours ago</span>
+                                        <span>starred 5 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -2570,7 +2570,7 @@
                                             </svg>
                                             <div class="name">
                                                 <span>apache/maven-mvnd</span>
-                                                <span>starred 11 hours ago</span>
+                                                <span>starred 12 hours ago</span>
                                             </div>
                                         </div>
                                         <div class="field description">Apache Maven Daemon</div>
@@ -2623,7 +2623,7 @@
                                             </svg>
                                             <div class="name">
                                                 <span>futurepress/epub.js</span>
-                                                <span>starred 22 hours ago</span>
+                                                <span>starred 23 hours ago</span>
                                             </div>
                                         </div>
                                         <div class="field description">Enhanced eBooks in the browser.</div>
@@ -3542,7 +3542,7 @@ error: could not compile
                     </section>
                     <footer>
                         <span>These metrics include private contributions</span>
-                        <span>Last updated 8 Jan 2022, 21:18:29 (timezone Asia/Shanghai) with lowlighter/metrics@3.17.0</span>
+                        <span>Last updated 8 Jan 2022, 22:09:07 (timezone Asia/Shanghai) with lowlighter/metrics@3.17.0</span>
                     </footer>
                 </div>
                 <div id="metrics-end"></div>
