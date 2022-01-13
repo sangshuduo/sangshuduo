@@ -2452,7 +2452,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>EnterpriseDB/barman</span>
-                                        <span>starred 6 hours ago</span>
+                                        <span>starred 7 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Barman - Backup and Recovery Manager for PostgreSQL</div>
@@ -2505,7 +2505,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>pgbackrest/pgbackrest</span>
-                                        <span>starred 6 hours ago</span>
+                                        <span>starred 7 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Reliable PostgreSQL Backup &amp; Restore</div>
@@ -2558,7 +2558,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>zhangwinwin/FEBlog</span>
-                                        <span>starred 6 hours ago</span>
+                                        <span>starred 7 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">积累前端相关的文章，向高级前端出发</div>
@@ -3529,7 +3529,7 @@ error: could not compile
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 14 Jan 2022, 01:21:44 (timezone Asia/Shanghai) with lowlighter/metrics@3.17.0</span>
+                <span>Last updated 14 Jan 2022, 02:12:23 (timezone Asia/Shanghai) with lowlighter/metrics@3.17.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
