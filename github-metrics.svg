@@ -2438,7 +2438,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>NodeBB/NodeBB</span>
-                                        <span>starred 13 hours ago</span>
+                                        <span>starred 14 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Node.js based forum software built for the modern web</div>
@@ -2491,7 +2491,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>JoshuaWise/better-sqlite3</span>
-                                        <span>starred 13 hours ago</span>
+                                        <span>starred 14 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">The fastest and simplest library for SQLite3 in Node.js.</div>
@@ -2544,7 +2544,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>leo-project/leofs</span>
-                                        <span>starred 13 hours ago</span>
+                                        <span>starred 14 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">The LeoFS Storage System</div>
@@ -2597,7 +2597,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>joyent/manta</span>
-                                        <span>starred 13 hours ago</span>
+                                        <span>starred 14 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Manta is a scalable HTTP-based object store</div>
@@ -3491,7 +3491,7 @@ error: could not compile
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 26 Jan 2022, 05:09:20 (timezone Asia/Shanghai) with lowlighter/metrics@3.18.0</span>
+                <span>Last updated 26 Jan 2022, 06:09:47 (timezone Asia/Shanghai) with lowlighter/metrics@3.18.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
