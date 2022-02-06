@@ -2463,7 +2463,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>predict-idlab/plotly-resampler</span>
-                                        <span>starred 1 hour ago</span>
+                                        <span>starred 2 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Visualize large time-series data in plotly</div>
@@ -2516,7 +2516,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Paxa/postbird</span>
-                                        <span>starred 2 hours ago</span>
+                                        <span>starred 3 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Open source PostgreSQL GUI client for macOS, Linux and Windows</div>
@@ -2569,7 +2569,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>elixir-grpc/grpc</span>
-                                        <span>starred 23 hours ago</span>
+                                        <span>starred 24 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">An Elixir implementation of gRPC</div>
@@ -3543,7 +3543,7 @@ error: could not compile
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 6 Feb 2022, 13:08:47 (timezone Asia/Shanghai) with lowlighter/metrics@3.19.0</span>
+                <span>Last updated 6 Feb 2022, 14:11:06 (timezone Asia/Shanghai) with lowlighter/metrics@3.19.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
