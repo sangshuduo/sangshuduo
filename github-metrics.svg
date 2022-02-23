@@ -2443,7 +2443,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>yangchuansheng/love-gfw</span>
-                                        <span>starred 2 hours ago</span>
+                                        <span>starred 3 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">🔥以社会主义核心价值观为指导思想，实现 Linux 和 MacOS 设备的全局智能分流</div>
@@ -2496,7 +2496,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>fanux/sealos</span>
-                                        <span>starred 2 hours ago</span>
+                                        <span>starred 3 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">一条命令离线安装高可用 Kubernetes，3min 装完，500M，100年证书，版本不要太全，生产环境稳如老狗🔥 ⎈ 🐳</div>
@@ -2549,7 +2549,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>martinvonz/jj</span>
-                                        <span>starred 24 hours ago</span>
+                                        <span>starred 1 day ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A Git-compatible DVCS that is both simple and powerful</div>
@@ -2602,7 +2602,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>ulid/spec</span>
-                                        <span>starred 24 hours ago</span>
+                                        <span>starred 1 day ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">The canonical spec for ulid</div>
@@ -3507,7 +3507,7 @@ error: could not compile
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 23 Feb 2022, 16:12:09 (timezone Asia/Shanghai) with lowlighter/metrics@3.20.0</span>
+                <span>Last updated 23 Feb 2022, 17:10:04 (timezone Asia/Shanghai) with lowlighter/metrics@3.20.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
