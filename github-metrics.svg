@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="3266" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="3100" class="">
     <defs>
         <style/>
     </defs>
@@ -69,7 +69,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            16840 Commits
+                            16839 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -2718,6 +2718,26 @@
                                 <div class="details">
                                     <div>on branch <span class="code">feature/3.0_sdsang_mac</span></div>
                                     <div class="commit">
+                                        <div class="sha">#336e33f</div>
+                                        <div class="message">git clean in bdb directory</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">taosdata/TDengine</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">feature/3.0_sdsang_mac</span></div>
+                                    <div class="commit">
                                         <div class="sha">#ed1bc34</div>
                                         <div class="message">fix bdb cmake</div>
                                     </div>
@@ -2794,70 +2814,6 @@
                                 <div class="details">
                                     <div>opened by zhaoyanggh in <span class="repo">taosdata/taos-tools</span></div>
                                     <div>8 files changed <span class="code">++1168 --1146</span></div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 11 commits in
-                                        <span class="repo">taosdata/TDengine</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">feature/3.0_sdsang_mac</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#7d997ee</div>
-                                        <div class="message">merge with 3.0</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#0298134</div>
-                                        <div class="message">Merge pull request #10569 from taosdata/feature/3.0_liaohj
-
-Feature/3.0 liaohj</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#5f37627</div>
-                                        <div class="message">[td-13039] fix bug in project query.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#9fe7540</div>
-                                        <div class="message">Merge pull request #10714 from taosdata/feature/supportQuery
-
-modify  UT</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#1dfae9b</div>
-                                        <div class="message">merge 3.0</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#30f602f</div>
-                                        <div class="message">update UT test</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#baf0ac2</div>
-                                        <div class="message">update UT test</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#c62dfe6</div>
-                                        <div class="message">[td-13039] merge 3.0.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#7273746</div>
-                                        <div class="message">Merge branch '3.0' into feature/3.0_liaohj</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#9c61036</div>
-                                        <div class="message">[td-13039] refactor.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#fa3fce9</div>
-                                        <div class="message">[td-13039] refactor.</div>
-                                    </div>
                                 </div>
                             </section>
                         </div>
@@ -3597,7 +3553,7 @@ error: could not compile
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 12 Mar 2022, 19:08:57 (timezone Asia/Shanghai) with lowlighter/metrics@3.21.0</span>
+                <span>Last updated 12 Mar 2022, 20:15:54 (timezone Asia/Shanghai) with lowlighter/metrics@3.21.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
