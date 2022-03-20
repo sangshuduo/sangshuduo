@@ -2463,7 +2463,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Uncommon/Xit</span>
-                                        <span>starred 8 hours ago</span>
+                                        <span>starred 9 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Mac OS X Git GUI</div>
@@ -2569,7 +2569,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>RaiMan/SikuliX1</span>
-                                        <span>starred 1 day ago</span>
+                                        <span>starred 2 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">SikuliX version 2.0.0+ (2019+)</div>
@@ -2622,7 +2622,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>PaulJuliusMartinez/jless</span>
-                                        <span>starred 1 day ago</span>
+                                        <span>starred 2 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">jless is a command-line JSON viewer designed for reading, exploring, and searching through JSON data.</div>
@@ -3529,7 +3529,7 @@ error: could not compile
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 20 Mar 2022, 08:42:31 (timezone Asia/Shanghai) with lowlighter/metrics@3.21.0</span>
+                <span>Last updated 20 Mar 2022, 10:09:36 (timezone Asia/Shanghai) with lowlighter/metrics@3.21.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
