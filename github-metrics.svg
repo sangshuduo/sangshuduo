@@ -2438,7 +2438,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>bytecodealliance/lucet</span>
-                                        <span>starred 12 hours ago</span>
+                                        <span>starred 13 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Lucet, the Sandboxing WebAssembly Compiler.</div>
@@ -2491,7 +2491,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>gfx-rs/wgpu</span>
-                                        <span>starred 12 hours ago</span>
+                                        <span>starred 13 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Safe and portable GPU abstraction in Rust, implementing WebGPU API.</div>
@@ -2544,7 +2544,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>linebender/druid</span>
-                                        <span>starred 12 hours ago</span>
+                                        <span>starred 13 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A data-first Rust-native UI design toolkit.</div>
@@ -3520,7 +3520,7 @@ error: could not compile
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 22 Mar 2022, 21:19:31 (timezone Asia/Shanghai) with lowlighter/metrics@3.21.0</span>
+                <span>Last updated 22 Mar 2022, 22:10:21 (timezone Asia/Shanghai) with lowlighter/metrics@3.21.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
