@@ -69,7 +69,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            18345 Commits
+                            18346 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -2443,7 +2443,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>jacketizer/libyuarel</span>
-                                        <span>starred 5 hours ago</span>
+                                        <span>starred 6 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Simple C library for parsing URLs with zero-copy and no mallocs.</div>
@@ -2496,7 +2496,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>frang75/nappgui_src</span>
-                                        <span>starred 6 hours ago</span>
+                                        <span>starred 7 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">SDK for building cross-platform desktop apps in ANSI-C</div>
@@ -2570,7 +2570,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
                                         </svg>
-                                        6.87k
+                                        6.88k
                                     </div>
                                     <div>
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -2697,8 +2697,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">docs-cloud</span></div>
                                     <div class="commit">
-                                        <div class="sha">#1f03679</div>
-                                        <div class="message">docs: update cloud doc grafana (#13621)
+                                        <div class="sha">#2066748</div>
+                                        <div class="message">docs: update cloud doc grafana (#13624)
 
 * docs: describe how grafana connect cloud
 
@@ -2718,7 +2718,11 @@
 
 * docs: rewrite grafana doc for cloud
 
-* docs: update docs-en/08-third-party/01-grafana.md</div>
+* docs: update docs-en/08-third-party/01-grafana.md
+
+* docs: update docs-en/08-third-party/01-grafana.md
+
+* docs: refine docs-en/08-third-party/01-grafana.md</div>
                                     </div>
                                 </div>
                             </section>
@@ -2731,12 +2735,12 @@
                                     </svg>
                                     <div class="content">
                                         Merged
-                                        <span class="issue">#13621 docs: update cloud doc grafana</span>
+                                        <span class="issue">#13624 docs: update cloud doc grafana</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div> in <span class="repo">taosdata/TDengine</span></div>
-                                    <div>1 file changed <span class="code">++0 --10</span></div>
+                                    <div>1 file changed <span class="code">++5 --5</span></div>
                                 </div>
                             </section>
                         </div>
@@ -2748,12 +2752,12 @@
                                     </svg>
                                     <div class="content">
                                         Opened
-                                        <span class="issue">#13621 docs: update cloud doc grafana</span>
+                                        <span class="issue">#13624 docs: update cloud doc grafana</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div> in <span class="repo">taosdata/TDengine</span></div>
-                                    <div>1 file changed <span class="code">++0 --10</span></div>
+                                    <div>1 file changed <span class="code">++5 --5</span></div>
                                 </div>
                             </section>
                         </div>
@@ -2771,16 +2775,16 @@
                                 <div class="details">
                                     <div>on branch <span class="code">docs/sangshuduo/cloud-doc-grafana</span></div>
                                     <div class="commit">
-                                        <div class="sha">#9cf1bf4</div>
-                                        <div class="message">docs: update docs-en/08-third-party/01-grafana.md</div>
+                                        <div class="sha">#c797371</div>
+                                        <div class="message">docs: refine docs-en/08-third-party/01-grafana.md</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#2f18837</div>
+                                        <div class="sha">#75a760a</div>
                                         <div class="message">Merge branch 'docs-cloud' into docs/sangshuduo/cloud-doc-grafana</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#1fbb7e7</div>
-                                        <div class="message">docs: rewrite cloud doc grafana (#13617)
+                                        <div class="sha">#c979724</div>
+                                        <div class="message">docs: update cloud doc grafana (#13622)
 
 * docs: describe how grafana connect cloud
 
@@ -2798,7 +2802,11 @@
 
 * docs: refine 01-grafana.md
 
-* docs: rewrite grafana doc for cloud</div>
+* docs: rewrite grafana doc for cloud
+
+* docs: update docs-en/08-third-party/01-grafana.md
+
+* docs: update docs-en/08-third-party/01-grafana.md</div>
                                     </div>
                                 </div>
                             </section>
@@ -2815,19 +2823,32 @@
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">develop</span></div>
+                                    <div>on branch <span class="code">docs-cloud</span></div>
                                     <div class="commit">
-                                        <div class="sha">#3230070</div>
-                                        <div class="message">impr: remove http/https:// in url (#13612)
+                                        <div class="sha">#c979724</div>
+                                        <div class="message">docs: update cloud doc grafana (#13622)
 
-* fix: update taos-tools
-”
+* docs: describe how grafana connect cloud
 
-* impl: add env variable for cloud platform
+* docs: update latest version
 
-* fix: print refine
+* docs: describe how grafana to connect cloud
 
-* remove http/https in front</div>
+* docs: refine 08-third-party/01-grafana.md
+
+* docs: update add_datasource4.webp
+
+* docs: refine 08-third-party/01-grafana.md
+
+* docs: update two pics
+
+* docs: refine 01-grafana.md
+
+* docs: rewrite grafana doc for cloud
+
+* docs: update docs-en/08-third-party/01-grafana.md
+
+* docs: update docs-en/08-third-party/01-grafana.md</div>
                                     </div>
                                 </div>
                             </section>
@@ -3543,7 +3564,7 @@ Thanks,</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 8 Jun 2022, 23:10:48 (timezone Asia/Shanghai) with lowlighter/metrics@3.24.0</span>
+                <span>Last updated 9 Jun 2022, 00:14:22 (timezone Asia/Shanghai) with lowlighter/metrics@3.24.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
