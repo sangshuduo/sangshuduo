@@ -2438,7 +2438,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>cloudwego/hertz</span>
-                                        <span>starred 12 hours ago</span>
+                                        <span>starred 13 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A high-performance and strong-extensibility Go HTTP framework that helps developers build microservices.</div>
@@ -2491,7 +2491,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>cocos2d/cocos2d-x</span>
-                                        <span>starred 14 hours ago</span>
+                                        <span>starred 15 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Cocos2d-x is a suite of open-source, cross-platform, game-development tools used by millions of developers all over the world.</div>
@@ -2538,7 +2538,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>MonoGame/MonoGame</span>
-                                        <span>starred 14 hours ago</span>
+                                        <span>starred 15 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">One framework for creating powerful cross-platform games.</div>
@@ -2591,7 +2591,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>turbulenz/turbulenz_engine</span>
-                                        <span>starred 14 hours ago</span>
+                                        <span>starred 15 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Turbulenz is a modular 3D and 2D game framework for making HTML5 powered games for browsers, desktops and mobile devices.</div>
@@ -3497,7 +3497,7 @@ Thanks,</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 22 Jun 2022, 04:12:02 (timezone Asia/Shanghai) with lowlighter/metrics@3.24.0</span>
+                <span>Last updated 22 Jun 2022, 05:10:01 (timezone Asia/Shanghai) with lowlighter/metrics@3.24.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
