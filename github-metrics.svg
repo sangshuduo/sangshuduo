@@ -2463,7 +2463,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>bellard/quickjs</span>
-                                        <span>starred 14 hours ago</span>
+                                        <span>starred 15 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Public repository of the QuickJS Javascript Engine. Pull requests are not accepted. Use the mailing list to submit patches.</div>
@@ -2516,7 +2516,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>dsx42/UnattendTool</span>
-                                        <span>starred 1 day ago</span>
+                                        <span>starred 2 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Windows 自动安装应答文件 Unattend.xml 生成工具</div>
@@ -3529,7 +3529,7 @@ Thanks,</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 3 Jul 2022, 15:10:43 (timezone Asia/Shanghai) with lowlighter/metrics@3.25.0</span>
+                <span>Last updated 3 Jul 2022, 16:13:02 (timezone Asia/Shanghai) with lowlighter/metrics@3.25.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
