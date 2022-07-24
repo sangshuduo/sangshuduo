@@ -2463,7 +2463,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>datastax/cass-operator</span>
-                                        <span>starred 6 hours ago</span>
+                                        <span>starred 7 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">The DataStax Kubernetes Operator for Apache Cassandra</div>
@@ -3527,7 +3527,7 @@ Thanks,</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 25 Jul 2022, 06:10:45 (timezone Asia/Shanghai) with lowlighter/metrics@3.26.0</span>
+                <span>Last updated 25 Jul 2022, 07:11:35 (timezone Asia/Shanghai) with lowlighter/metrics@3.26.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
