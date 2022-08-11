@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="3125" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="3092" class="">
     <defs>
         <style/>
     </defs>
@@ -69,7 +69,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            18819 Commits
+                            18817 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -2709,6 +2709,46 @@
                                 <div class="details">
                                     <div>on branch <span class="code">test/sangshuduo/TD-17080-taosdump-functest</span></div>
                                     <div class="commit">
+                                        <div class="sha">#4134bd1</div>
+                                        <div class="message">test: add basic test cases</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">taosdata/taos-tools</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">test/sangshuduo/TD-17080-taosdump-functest</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#af8ae7e</div>
+                                        <div class="message">fix: stb pointer is null on tdengine 3.0</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">taosdata/taos-tools</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">test/sangshuduo/TD-17080-taosdump-functest</span></div>
+                                    <div class="commit">
                                         <div class="sha">#dfeb46a</div>
                                         <div class="message">fix: add expect install</div>
                                     </div>
@@ -2748,104 +2788,6 @@
                                     <div class="commit">
                                         <div class="sha">#f67fda2</div>
                                         <div class="message">fix: replace test branch with 3.0</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 3 commits in
-                                        <span class="repo">taosdata/taos-tools</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">test/sangshuduo/TD-17080-taosdump-functest</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#5d2094e</div>
-                                        <div class="message">test: add 3.0-coveralls.yml</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#b60a348</div>
-                                        <div class="message">Merge branch 'develop' into test/sangshuduo/TD-17080-taosdump-functest</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#775cae7</div>
-                                        <div class="message">test: taosdump functest (#327)
-
-* test: refine tests for taosdump
-
-* test: rm tests/CMakeLists.txt
-
-* test: change workflow accordingly
-
-* fix: taosdump ws float null
-
-* test: coveralls.yml includes websocket test
-
-* fix: disable taosdump/ws dep
-
-* fix: wrong filename in cmake file
-
-* test: add more test cases
-
-* test: add expect test taosdump password
-
-* fix: ci-taosdump-release-ws.yml wrong branch
-
-* test: cherry pick from other branch
-
-* test: add tools path finding for 3.0
-
-* test: remove days/blocks for 3.0
-
-* fix: .github/workflows/non-x64.yml
-
-* test: add vnodes=256 env variable for 3.0
-
-* test: fix windows-build-for3.0.yml
-
-* test: disable ws for tdengine 2.0
-
-* test: disable ws for tdengine 2.0 on centos
-
-* fix: windows compile
-
-* fix: check windows macro
-
-* test: use test/sangshuduo/TD-17080-taosdump-functest on windows build
-
-* fix: pip3 install taospy on centos
-
-Co-authored-by: Yang Zhao &lt;yzhao@taosdata.com&gt;</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">taosdata/TDengine</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">3.0</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#7d015bd</div>
-                                        <div class="message">docs: remove continous query from connector doc (#15968)
-
-* docs: update connector for 3.0
-
-* docs: remove continous query from connector doc</div>
                                     </div>
                                 </div>
                             </section>
@@ -3561,7 +3503,7 @@ Thanks,</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 11 Aug 2022, 12:19:46 (timezone Asia/Shanghai) with lowlighter/metrics@3.26.0</span>
+                <span>Last updated 11 Aug 2022, 13:11:53 (timezone Asia/Shanghai) with lowlighter/metrics@3.26.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
