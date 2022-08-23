@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="3728" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="3095" class="">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.center{justify-content:center}.horizontal-wrap{flex-wrap:wrap}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}.no-margin-top{margin-top:0}.avatar{border-radius:50%;margin:0 6px}.organization.avatar{border-radius:15%}.organization.name{white-space:nowrap}.organization.contributions{margin:0 8px;flex-wrap:wrap}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details{display:flex;justify-content:space-between}.field.language.details small,.field.license.details small{display:flex;justify-content:space-between;color:#666;text-align:right}.field.language.details small&gt;*,.field.language.details&gt;*{flex:1 1 0}.field.language.details small&gt;:not(:last-child){margin-right:6px}.followup.legend{font-size:12px;flex-wrap:wrap}.followup.legend .field{width:46%;justify-content:flex-start;margin-left:8px}.followup.legend svg{margin:0 3px;width:14px;height:14px}.followup.legend svg:first-child{margin-left:0}.followup.legend svg:last-child{margin-right:0}.followup-title{white-space:initial}.chartist .ct-post{fill:rgba(127,127,127,.8)!important;color:rgba(127,127,127,.8)!important;font-size:9px;text-anchor:middle}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;display:flex;flex-direction:column;justify-content:flex-end;padding:0 4px}.gauge{stroke-linecap:round;fill:none}.gauge.info{color:#58a6ff}.gauge-arc,.gauge-base{stroke:currentColor;stroke-width:10}.gauge-base{stroke-opacity:.2}.gauge-arc{fill:none;stroke-dashoffset:0;animation-delay:250ms;animation:animation-gauge 1s ease forwards}.gauge text{fill:currentColor;font-size:40px;font-family:monospace;text-anchor:middle;font-weight:600}.gauge .title{font-size:18px;color:#777}.repository{display:flex;flex-direction:column;width:100%;margin:6px 0}.repository .name{display:flex;align-items:center;justify-content:space-between;width:440px}.repository .name span:first-child{color:#58a6ff}.repository .name span:last-child{color:#666;font-size:10px}.repository .description{display:block;width:440px;white-space:normal}.repository .description,.repository .infos{color:#666;margin-left:38px;font-size:13px}.repository .infos&gt;div{display:flex;align-items:center;margin-right:16px}.repository .infos svg{margin:0 4px 0 0}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,.activity .commit .sha,span.code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}svg.calendar{margin-left:13px;margin-top:4px}svg.calendar text{font-size:18px;fill:currentColor}.added{color:#3fb950}.people{padding:0 10px}.people .avatar{margin:0 2px}.project .description{overflow:hidden;text-overflow:ellipsis;display:block;width:420px;margin-left:37px;max-height:38px;font-size:12px;white-space:normal;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}.field.license.details{display:flex;justify-content:space-between}.stackoverflow{margin-left:38px}.stackoverflow .entry{margin:4px 0 12px}.stackoverflow .title{color:#58a6ff;white-space:normal;align-items:flex-start}.stackoverflow .body,.stackoverflow .infos{color:#666;font-size:13px;margin-left:32px}.stackoverflow .infos{display:flex;align-items:center}.stackoverflow .infos&gt;div{display:inline-flex;align-items:center;margin-right:16px}.stackoverflow .infos svg{fill:currentColor;height:12px;width:12px;margin:0 4px 0 0;flex-shrink:0}.stackoverflow .body{overflow:hidden;text-overflow:ellipsis;border-left:3px solid #777777b2;padding-left:6px;width:400px}.achievement{display:flex;margin:4px 0}.achievement .icon{margin:0 4px;width:44px;height:44px}.achievement .text{font-size:12px;color:#666}.achievement .title{font-size:14px;color:#58a6ff}.achievement .gauge.info,.markdown a{color:#58a6ff}.achievement.x .title{color:#666}.achievement.x .gauge.info{color:#b0b0b0}.achievement.b .title{color:#9d8fff}.achievement.b .gauge.info{color:#9e91ff}.achievement.a .title{color:#d79533}.achievement.a .gauge.info{color:#e7bd69}.achievement.s .gauge.info,.achievement.s .title{color:#eb355e}.achievement .gh{border:1px solid currentColor;border-radius:16px;font-size:10px;padding:0 5px;white-space:nowrap}.achievement .gauge-arc,.achievement .gauge-base{stroke-width:6}.markdown b,code{display:inline-block}.markdown b{width:97%}.markdown a{text-decoration:none}code{background-color:#7777771f;border-radius:6px;color:#777;padding:1px 5px;font-size:80%;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}code[class^=language-]{white-space:pre-wrap;width:97%;margin-top:4px}.token.string{color:#2777aa}.token.trimmed{font-style:italic;color:#77777760}.space{margin-left:7px}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}.stackoverflow .body{display:-webkit-box;-webkit-box-orient:vertical;-webkit-line-clamp:4}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.center{justify-content:center}.horizontal-wrap{flex-wrap:wrap}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}.no-margin-top{margin-top:0}.avatar{border-radius:50%;margin:0 6px}.organization.avatar{border-radius:15%}.organization.name{white-space:nowrap}.organization.contributions{margin:0 8px;flex-wrap:wrap}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details{display:flex;justify-content:space-between}.field.language.details small,.field.license.details small{display:flex;justify-content:space-between;color:#666;text-align:right}.field.language.details small&gt;*,.field.language.details&gt;*{flex:1 1 0}.field.language.details small&gt;:not(:last-child){margin-right:6px}.followup.legend{font-size:12px;flex-wrap:wrap}.followup.legend .field{width:46%;justify-content:flex-start;margin-left:8px}.followup.legend svg{margin:0 3px;width:14px;height:14px}.followup.legend svg:first-child{margin-left:0}.followup.legend svg:last-child{margin-right:0}.followup-title{white-space:initial}.chartist .ct-post{fill:rgba(127,127,127,.8)!important;color:rgba(127,127,127,.8)!important;font-size:9px;text-anchor:middle}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;display:flex;flex-direction:column;justify-content:flex-end;padding:0 4px}.gauge{stroke-linecap:round;fill:none}.gauge.info{color:#58a6ff}.gauge-arc,.gauge-base{stroke:currentColor;stroke-width:10}.gauge-base{stroke-opacity:.2}.gauge-arc{fill:none;stroke-dashoffset:0;animation-delay:250ms;animation:animation-gauge 1s ease forwards}.gauge text{fill:currentColor;font-size:40px;font-family:monospace;text-anchor:middle;font-weight:600}.gauge .title{font-size:18px;color:#777}.repository{display:flex;flex-direction:column;width:100%;margin:6px 0}.repository .name{display:flex;align-items:center;justify-content:space-between;width:440px}.repository .name span:first-child{color:#58a6ff}.repository .name span:last-child{color:#666;font-size:10px}.repository .description{display:block;width:440px;white-space:normal}.repository .description,.repository .infos{color:#666;margin-left:38px;font-size:13px}.repository .infos&gt;div{display:flex;align-items:center;margin-right:16px}.repository .infos svg{margin:0 4px 0 0}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,.activity .commit .sha,span.code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}svg.calendar{margin-left:13px;margin-top:4px}svg.calendar text{font-size:18px;fill:currentColor}.added{color:#3fb950}.people{padding:0 10px}.people .avatar{margin:0 2px}.project .description{overflow:hidden;text-overflow:ellipsis;display:block;width:420px;margin-left:37px;max-height:38px;font-size:12px;white-space:normal;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}.field.license.details{display:flex;justify-content:space-between}.stackoverflow{margin-left:38px}.stackoverflow .entry{margin:4px 0 12px}.stackoverflow .title{color:#58a6ff;white-space:normal;align-items:flex-start}.stackoverflow .body,.stackoverflow .infos{color:#666;font-size:13px;margin-left:32px}.stackoverflow .infos{display:flex;align-items:center}.stackoverflow .infos&gt;div{display:inline-flex;align-items:center;margin-right:16px}.stackoverflow .infos svg{fill:currentColor;height:12px;width:12px;margin:0 4px 0 0;flex-shrink:0}.stackoverflow .body{overflow:hidden;text-overflow:ellipsis;border-left:3px solid #777777b2;padding-left:6px;width:400px}.achievement{display:flex;margin:4px 0}.achievement .icon{margin:0 4px;width:44px;height:44px}.achievement .text{font-size:12px;color:#666}.achievement .title{font-size:14px;color:#58a6ff}.achievement .gauge.info,.markdown a{color:#58a6ff}.achievement.x .title{color:#666}.achievement.x .gauge.info{color:#b0b0b0}.achievement.b .title{color:#9d8fff}.achievement.b .gauge.info{color:#9e91ff}.achievement.a .title{color:#d79533}.achievement.a .gauge.info{color:#e7bd69}.achievement.s .gauge.info,.achievement.s .title{color:#eb355e}.achievement .gh{border:1px solid currentColor;border-radius:16px;font-size:10px;padding:0 5px;white-space:nowrap}.achievement .gauge-arc,.achievement .gauge-base{stroke-width:6}.markdown b,code{display:inline-block}.markdown b{width:97%}.markdown a{text-decoration:none}code{background-color:#7777771f;border-radius:6px;color:#777;padding:1px 5px;font-size:80%;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}code[class^=language-]{white-space:pre-wrap;width:97%;margin-top:4px}.token.number{color:#2777aa}.token.trimmed{font-style:italic;color:#77777760}.space{margin-left:7px}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}.stackoverflow .body{display:-webkit-box;-webkit-box-orient:vertical;-webkit-line-clamp:4}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -69,7 +69,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            18438 Commits
+                            18437 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -177,7 +177,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    119k added, 2.52k removed
+                                    119k added, 3.05k removed
                                 </div>
                             </section>
                             <section>
@@ -2444,7 +2444,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>akinsho/git-conflict.nvim</span>
-                                        <span>starred 20 hours ago</span>
+                                        <span>starred 21 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A plugin to visualise and resolve merge conflicts in neovim</div>
@@ -2491,7 +2491,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Saecki/crates.nvim</span>
-                                        <span>starred 20 hours ago</span>
+                                        <span>starred 21 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A neovim plugin that helps managing crates.io dependencies</div>
@@ -2512,7 +2512,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
                                         </svg>
-                                        267
+                                        268
                                     </div>
                                     <div>
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -2618,7 +2618,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
                                         </svg>
-                                        376
+                                        378
                                     </div>
                                     <div>
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -2694,16 +2694,36 @@
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">taosdata/TDengine</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">3.0</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#103b7ba</div>
+                                        <div class="message">docs: remove version number text from docs (#16281)</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M7.177 3.073L9.573.677A.25.25 0 0110 .854v4.792a.25.25 0 01-.427.177L7.177 3.427a.25.25 0 010-.354zM3.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122v5.256a2.251 2.251 0 11-1.5 0V5.372A2.25 2.25 0 011.5 3.25zM11 2.5h-1V4h1a1 1 0 011 1v5.628a2.251 2.251 0 101.5 0V5A2.5 2.5 0 0011 2.5zm1 10.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0zM3.75 12a.75.75 0 100 1.5.75.75 0 000-1.5z"/>
                                     </svg>
                                     <div class="content">
-                                        Opened
-                                        <span class="issue">#16329 feat: update taostools 6bde102 for3.0</span>
+                                        Merged
+                                        <span class="issue">#16281 docs: remove version number text from docs</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div> in <span class="repo">taosdata/TDengine</span></div>
-                                    <div>1 file changed <span class="code">++1 --1</span></div>
+                                    <div>17 files changed <span class="code">++65 --57</span></div>
                                 </div>
                             </section>
                         </div>
@@ -2714,109 +2734,16 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 769 commits in
+                                        Pushed 1 commit in
                                         <span class="repo">taosdata/TDengine</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">feat/sangshuduo/TD-14141-update-taostools-for3.0</span></div>
+                                    <div>on branch <span class="code">docs/sangshuduo/TD-18529-fixversion-for3.0</span></div>
                                     <div class="commit">
-                                        <div class="sha">#d5c2d59</div>
-                                        <div class="message">more work</div>
+                                        <div class="sha">#3cbf953</div>
+                                        <div class="message">fix: merge with 3.0</div>
                                     </div>
-                                    <div class="commit">
-                                        <div class="sha">#2cb114c</div>
-                                        <div class="message">more work</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#cd9b8fb</div>
-                                        <div class="message">Merge branch '3.0' of https://github.com/taosdata/TDengine into refact/tsdb_last</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#03a615c</div>
-                                        <div class="message">more</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#67db73b</div>
-                                        <div class="message">more last refact work</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#93ca2b1</div>
-                                        <div class="message">Merge branch '3.0' of https://github.com/taosdata/TDengine into refact/tsdb_last</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#d1c7e3a</div>
-                                        <div class="message">more last refact</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#f84f883</div>
-                                        <div class="message">Merge branch '3.0' of https://github.com/taosdata/TDengine into refact/tsdb_last</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#7d1f2b7</div>
-                                        <div class="message">Merge branch '3.0' of https://github.com/taosdata/TDengine into refact/tsdb_last</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#e6d374b</div>
-                                        <div class="message">make it compile</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#7075244</div>
-                                        <div class="message">more last file refact</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#e827d0b</div>
-                                        <div class="message">more last file refact</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#e996bb4</div>
-                                        <div class="message">Merge branch '3.0' of https://github.com/taosdata/TDengine into refact/tsdb_last</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#f24317f</div>
-                                        <div class="message">more last file refact</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#2d0882e</div>
-                                        <div class="message">more last file refact</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#c2db42f</div>
-                                        <div class="message">Merge branch '3.0' of https://github.com/taosdata/TDengine into refact/tsdb_last</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#418166c</div>
-                                        <div class="message">Merge branch '3.0' of https://github.com/taosdata/TDengine into refact/tsdb_last</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#2de5cf1</div>
-                                        <div class="message">Merge branch '3.0' of https://github.com/taosdata/TDengine into refact/tsdb_last</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#e0900aa</div>
-                                        <div class="message">Merge branch '3.0' of https://github.com/taosdata/TDengine into refact/tsdb_last</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#ebd60a9</div>
-                                        <div class="message">refact: tsdb last file optimize 1</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M7.177 3.073L9.573.677A.25.25 0 0110 .854v4.792a.25.25 0 01-.427.177L7.177 3.427a.25.25 0 010-.354zM3.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122v5.256a2.251 2.251 0 11-1.5 0V5.372A2.25 2.25 0 011.5 3.25zM11 2.5h-1V4h1a1 1 0 011 1v5.628a2.251 2.251 0 101.5 0V5A2.5 2.5 0 0011 2.5zm1 10.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0zM3.75 12a.75.75 0 100 1.5.75.75 0 000-1.5z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Opened
-                                        <span class="issue">#16328 feat: update taostools 6bde102 for2.6</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div> in <span class="repo">taosdata/TDengine</span></div>
-                                    <div>1 file changed <span class="code">++1 --1</span></div>
                                 </div>
                             </section>
                         </div>
@@ -2827,175 +2754,15 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 30 commits in
+                                        Pushed 1 commit in
                                         <span class="repo">taosdata/TDengine</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">feat/sangshuduo/TD-14141-update-taostools-for2.6</span></div>
+                                    <div>on branch <span class="code">docs/sangshuduo/TD-18529-fixversion-for3.0</span></div>
                                     <div class="commit">
-                                        <div class="sha">#7a896f2</div>
-                                        <div class="message">Merge pull request #16243 from taosdata/cases/TS-1788-V26
-
-fix(subscribe): TS-1788-V26 remove strtolower for sql</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#c41546d</div>
-                                        <div class="message">fix(subscribe): remove strtolower for sql string</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#2c8ddb9</div>
-                                        <div class="message">test: add test case for subscribe case sensitive</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#d9c580a</div>
-                                        <div class="message">Merge pull request #16147 from taosdata/fix/TS-1770-V26
-
-fix(rpc): insert data send failed</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#e204332</div>
-                                        <div class="message">fix(query): if send data failed then retry next ip again</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#de5a515</div>
-                                        <div class="message">fix(query): add TBOOL type</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#e99f512</div>
-                                        <div class="message">fix(rpc): insert data send failed</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#a370d94</div>
-                                        <div class="message">fix(query): check the upper boundary of startPos in hashIntervalAgg</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#9d7ef2c</div>
-                                        <div class="message">Merge pull request #16069 from taosdata/fix/TD-18361-V26
-
-fix(rpc): TCP probe check alive update alive if pConn is null</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#3086f1f</div>
-                                        <div class="message">fix(rpc): if reqDver can not printlog</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#a2c46f7</div>
-                                        <div class="message">fix(rpx): remove send data error, maybe sometime have error1</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#a336ce9</div>
-                                        <div class="message">fix(rpx): remove send data error, maybe sometime have error</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#d64c276</div>
-                                        <div class="message">doc: fix broken links</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#e82dae0</div>
-                                        <div class="message">doc: fix broken link</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#421869c</div>
-                                        <div class="message">doc: fix broken links in 2.4</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#e0fb57a</div>
-                                        <div class="message">fix(rpc): if req over, update lastalive time1</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#70615c0</div>
-                                        <div class="message">fix(rpc): if req over, update lastalive time</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#963ba8a</div>
-                                        <div class="message">Merge pull request #16027 from taosdata/docs/cdiwadkar16-patch-1
-
-docs:cdiwadkar16-patch-1 - Create 12-jupyterlab.md</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#c827475</div>
-                                        <div class="message">docs:cdiwadkar16-patch-1 - Create 12-jupyterlab.md
-
-This is an additional doc to show how to connect JupyterLab with Python kernel to TDengine.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#20a52bc</div>
-                                        <div class="message">feat: update taostools 43924b8 for2.6 (#16020)
-
-* feat: update taos-tools
-
-for 2.6
-
-[TD-14141]
-
-* feat: update taos-tools for 2.6
-
-* feat: update taos-tools for 2.6
-
-* feat: update taos-tools for 2.6
-
-* feat: update taos-tools for 2.6
-
-* feat: updaete taos-tools for 2.6
-
-* feat: update taos-tools for 2.6
-
-* feat: update taos-tools for 2.6
-
-* feat: update taos-tools for 2.6
-
-* feat: update taos-tools for 2.6
-
-* feat: update taos-tools for 2.6
-
-* feat: update taos-tools for 2.6
-
-* feat: update taos-tools for 2.6
-
-* fix: update taos-tools for 2.6
-
-* fix: arm build for 2.6
-
-* fix: disable make install on arm64
-
-* fix: disable taodump test case in parallel_test/cases.task temporarily
-
-* feat: update taos-tools for 2.6
-
-* feat: revert cases.task for taosdump
-
-* feat: update taos-tools 9dc2fec for 2.6
-
-* fix: use jenkinsfile2 same as develop branch
-
-* feat: update taos-tools 0e0fea3431 for 2.6
-
-* feat: cherry pick test case changes
-
-* fix: remove walLevel from json files
-
-* fix: for taosdemo
-
-* feat: update taos-tools for 2.6
-
-* feat: update taos-tools 8157e3b for 2.6
-
-* feat: update taos-tools c9cc20f for 2.6
-
-* feat: update taos-tools for 2.6
-
-* feat: update taos-tools 3c7dafe for 2.6
-
-* feat: update taos-tools for 2.6
-
-* feat: update taos-tools 57bdfbf for 2.6
-
-* feat: update taos-tools 11d23e5 for 2.6
-
-* feat: update taos-tools 43924b8 for 2.6
-
-Co-authored-by: zhaoyanggh &lt;yzhao@taosdata.com&gt;</div>
+                                        <div class="sha">#b9f7cd3</div>
+                                        <div class="message">fix: merge with 3.0</div>
                                     </div>
                                 </div>
                             </section>
@@ -3004,16 +2771,19 @@ Co-authored-by: zhaoyanggh &lt;yzhao@taosdata.com&gt;</div>
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M7.177 3.073L9.573.677A.25.25 0 0110 .854v4.792a.25.25 0 01-.427.177L7.177 3.427a.25.25 0 010-.354zM3.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122v5.256a2.251 2.251 0 11-1.5 0V5.372A2.25 2.25 0 011.5 3.25zM11 2.5h-1V4h1a1 1 0 011 1v5.628a2.251 2.251 0 101.5 0V5A2.5 2.5 0 0011 2.5zm1 10.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0zM3.75 12a.75.75 0 100 1.5.75.75 0 000-1.5z"/>
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Opened
-                                        <span class="issue">#16327 feat: update taostools 6bde102</span>
+                                        Pushed 1 commit in
+                                        <span class="repo">taosdata/TDengine</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div> in <span class="repo">taosdata/TDengine</span></div>
-                                    <div>1 file changed <span class="code">++1 --1</span></div>
+                                    <div>on branch <span class="code">docs/sangshuduo/TD-18529-fixversion-for3.0</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#9224dde</div>
+                                        <div class="message">fix: merge with 3.0</div>
+                                    </div>
                                 </div>
                             </section>
                         </div>
@@ -3728,7 +3498,7 @@ Thanks,</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 23 Aug 2022, 14:25:34 (timezone Asia/Shanghai) with lowlighter/metrics@3.27.0</span>
+                <span>Last updated 23 Aug 2022, 15:16:00 (timezone Asia/Shanghai) with lowlighter/metrics@3.27.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
