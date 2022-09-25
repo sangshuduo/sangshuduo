@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="3211" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="3119" class="">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.center{justify-content:center}.horizontal-wrap{flex-wrap:wrap}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}.no-margin-top{margin-top:0}.avatar{border-radius:50%;margin:0 6px}.organization.avatar{border-radius:15%}.organization.name{white-space:nowrap}.organization.contributions{margin:0 8px;flex-wrap:wrap}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details{display:flex;justify-content:space-between}.field.language.details small,.field.license.details small{display:flex;justify-content:space-between;color:#666;text-align:right}.field.language.details small&gt;*,.field.language.details&gt;*{flex:1 1 0}.field.language.details small&gt;:not(:last-child){margin-right:6px}.followup.legend{font-size:12px;flex-wrap:wrap}.followup.legend .field{width:46%;justify-content:flex-start;margin-left:8px}.followup.legend svg{margin:0 3px;width:14px;height:14px}.followup.legend svg:first-child{margin-left:0}.followup.legend svg:last-child{margin-right:0}.followup-title{white-space:initial}.chartist .ct-post{fill:rgba(127,127,127,.8)!important;color:rgba(127,127,127,.8)!important;font-size:9px;text-anchor:middle}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;display:flex;flex-direction:column;justify-content:flex-end;padding:0 4px}.gauge{stroke-linecap:round;fill:none}.gauge.info{color:#58a6ff}.gauge-arc,.gauge-base{stroke:currentColor;stroke-width:10}.gauge-base{stroke-opacity:.2}.gauge-arc{fill:none;stroke-dashoffset:0;animation-delay:250ms;animation:animation-gauge 1s ease forwards}.gauge text{fill:currentColor;font-size:40px;font-family:monospace;text-anchor:middle;font-weight:600}.gauge .title{font-size:18px;color:#777}.repository{display:flex;flex-direction:column;width:100%;margin:6px 0}.repository .name{display:flex;align-items:center;justify-content:space-between;width:440px}.repository .name span:first-child{color:#58a6ff}.repository .name span:last-child{color:#666;font-size:10px}.repository .description{display:block;width:440px;white-space:normal}.repository .description,.repository .infos{color:#666;margin-left:38px;font-size:13px}.repository .infos&gt;div{display:flex;align-items:center;margin-right:16px}.repository .infos svg{margin:0 4px 0 0}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,.activity .commit .sha,span.code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;margin:0 4px -3px}.activity .user{font-weight:600}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}.activity .details&gt;.comment{overflow:hidden;text-overflow:ellipsis;display:block;width:420px;margin-top:6px;border-left:3px solid #777777b2;padding-left:6px;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}svg.calendar{margin-left:13px;margin-top:4px}svg.calendar text{font-size:18px;fill:currentColor}.added{color:#3fb950}.people{padding:0 10px}.people .avatar{margin:0 2px}.field.license.details{display:flex;justify-content:space-between}.stackoverflow{margin-left:38px}.stackoverflow .entry{margin:4px 0 12px}.stackoverflow .title{color:#58a6ff;white-space:normal;align-items:flex-start}.stackoverflow .body,.stackoverflow .infos{color:#666;font-size:13px;margin-left:32px}.stackoverflow .infos{display:flex;align-items:center}.stackoverflow .infos&gt;div{display:inline-flex;align-items:center;margin-right:16px}.stackoverflow .infos svg{fill:currentColor;height:12px;width:12px;margin:0 4px 0 0;flex-shrink:0}.stackoverflow .body{overflow:hidden;text-overflow:ellipsis;border-left:3px solid #777777b2;padding-left:6px;width:400px}.achievement{display:flex;margin:4px 0}.achievement .icon{margin:0 4px;width:44px;height:44px}.achievement .text{font-size:12px;color:#666}.achievement .title{font-size:14px;color:#58a6ff}.achievement .gauge.info,.markdown a{color:#58a6ff}.achievement.x .title{color:#666}.achievement.x .gauge.info{color:#b0b0b0}.achievement.b .title{color:#9d8fff}.achievement.b .gauge.info{color:#9e91ff}.achievement.a .title{color:#d79533}.achievement.a .gauge.info{color:#e7bd69}.achievement.s .gauge.info,.achievement.s .title{color:#eb355e}.achievement .gh{border:1px solid currentColor;border-radius:16px;font-size:10px;padding:0 5px;white-space:nowrap}.achievement .gauge-arc,.achievement .gauge-base{stroke-width:6}.markdown b,code{display:inline-block}.markdown b{width:97%}.markdown a{text-decoration:none}code{background-color:#7777771f;border-radius:6px;color:#777;padding:1px 5px;font-size:80%;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}code[class^=language-]{white-space:pre-wrap;width:97%;margin-top:4px}.token.comment{color:#690}.token.tag{color:#48428a}.token.trimmed{font-style:italic;color:#77777760}.space{margin-left:7px}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}.stackoverflow .body{display:-webkit-box;-webkit-box-orient:vertical;-webkit-line-clamp:4}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.center{justify-content:center}.horizontal-wrap{flex-wrap:wrap}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}.no-margin-top{margin-top:0}.avatar{border-radius:50%;margin:0 6px}.organization.avatar{border-radius:15%}.organization.name{white-space:nowrap}.organization.contributions{margin:0 8px;flex-wrap:wrap}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details{display:flex;justify-content:space-between}.field.language.details small,.field.license.details small{display:flex;justify-content:space-between;color:#666;text-align:right}.field.language.details small&gt;*,.field.language.details&gt;*{flex:1 1 0}.field.language.details small&gt;:not(:last-child){margin-right:6px}.followup.legend{font-size:12px;flex-wrap:wrap}.followup.legend .field{width:46%;justify-content:flex-start;margin-left:8px}.followup.legend svg{margin:0 3px;width:14px;height:14px}.followup.legend svg:first-child{margin-left:0}.followup.legend svg:last-child{margin-right:0}.followup-title{white-space:initial}.chartist .ct-post{fill:rgba(127,127,127,.8)!important;color:rgba(127,127,127,.8)!important;font-size:9px;text-anchor:middle}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;display:flex;flex-direction:column;justify-content:flex-end;padding:0 4px}.gauge{stroke-linecap:round;fill:none}.gauge.info{color:#58a6ff}.gauge-arc,.gauge-base{stroke:currentColor;stroke-width:10}.gauge-base{stroke-opacity:.2}.gauge-arc{fill:none;stroke-dashoffset:0;animation-delay:250ms;animation:animation-gauge 1s ease forwards}.gauge text{fill:currentColor;font-size:40px;font-family:monospace;text-anchor:middle;font-weight:600}.gauge .title{font-size:18px;color:#777}.repository{display:flex;flex-direction:column;width:100%;margin:6px 0}.repository .name{display:flex;align-items:center;justify-content:space-between;width:440px}.repository .name span:first-child{color:#58a6ff}.repository .name span:last-child{color:#666;font-size:10px}.repository .description{display:block;width:440px;white-space:normal}.repository .description,.repository .infos{color:#666;margin-left:38px;font-size:13px}.repository .infos&gt;div{display:flex;align-items:center;margin-right:16px}.repository .infos svg{margin:0 4px 0 0}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,.activity .commit .sha,span.code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}svg.calendar{margin-left:13px;margin-top:4px}svg.calendar text{font-size:18px;fill:currentColor}.added{color:#3fb950}.people{padding:0 10px}.people .avatar{margin:0 2px}.field.license.details{display:flex;justify-content:space-between}.stackoverflow{margin-left:38px}.stackoverflow .entry{margin:4px 0 12px}.stackoverflow .title{color:#58a6ff;white-space:normal;align-items:flex-start}.stackoverflow .body,.stackoverflow .infos{color:#666;font-size:13px;margin-left:32px}.stackoverflow .infos{display:flex;align-items:center}.stackoverflow .infos&gt;div{display:inline-flex;align-items:center;margin-right:16px}.stackoverflow .infos svg{fill:currentColor;height:12px;width:12px;margin:0 4px 0 0;flex-shrink:0}.stackoverflow .body{overflow:hidden;text-overflow:ellipsis;border-left:3px solid #777777b2;padding-left:6px;width:400px}.achievement{display:flex;margin:4px 0}.achievement .icon{margin:0 4px;width:44px;height:44px}.achievement .text{font-size:12px;color:#666}.achievement .title{font-size:14px;color:#58a6ff}.achievement .gauge.info,.markdown a{color:#58a6ff}.achievement.x .title{color:#666}.achievement.x .gauge.info{color:#b0b0b0}.achievement.b .title{color:#9d8fff}.achievement.b .gauge.info{color:#9e91ff}.achievement.a .title{color:#d79533}.achievement.a .gauge.info{color:#e7bd69}.achievement.s .gauge.info,.achievement.s .title{color:#eb355e}.achievement .gh{border:1px solid currentColor;border-radius:16px;font-size:10px;padding:0 5px;white-space:nowrap}.achievement .gauge-arc,.achievement .gauge-base{stroke-width:6}.markdown b,code{display:inline-block}.markdown b{width:97%}.markdown a{text-decoration:none}code{background-color:#7777771f;border-radius:6px;color:#777;padding:1px 5px;font-size:80%;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}code[class^=language-]{white-space:pre-wrap;width:97%;margin-top:4px}.token.tag{color:#48428a}.token.trimmed{font-style:italic;color:#77777760}.space{margin-left:7px}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}.stackoverflow .body{display:-webkit-box;-webkit-box-orient:vertical;-webkit-line-clamp:4}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -69,7 +69,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            18749 Commits
+                            18752 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -2490,7 +2490,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
                                         </svg>
-                                        11.5k
+                                        11.6k
                                     </div>
                                     <div>
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -2714,16 +2714,19 @@
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M7.177 3.073L9.573.677A.25.25 0 0110 .854v4.792a.25.25 0 01-.427.177L7.177 3.427a.25.25 0 010-.354zM3.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122v5.256a2.251 2.251 0 11-1.5 0V5.372A2.25 2.25 0 011.5 3.25zM11 2.5h-1V4h1a1 1 0 011 1v5.628a2.251 2.251 0 101.5 0V5A2.5 2.5 0 0011 2.5zm1 10.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0zM3.75 12a.75.75 0 100 1.5.75.75 0 000-1.5z"/>
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Opened
-                                        <span class="issue">#387 fix: taosdump max files per dir is 100000</span>
+                                        Pushed 1 commit in
+                                        <span class="repo">taosdata/TDengine</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div> in <span class="repo">taosdata/taos-tools</span></div>
-                                    <div>1 file changed <span class="code">++1 --1</span></div>
+                                    <div>on branch <span class="code">feat/sangshuduo/TD-14141-update-taostools-for2.6</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#070eca8</div>
+                                        <div class="message">feat: update taos-tools f03c09a for 2.6</div>
+                                    </div>
                                 </div>
                             </section>
                         </div>
@@ -2734,23 +2737,35 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 3 commits in
+                                        Pushed 1 commit in
+                                        <span class="repo">taosdata/TDengine</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">feat/sangshuduo/TD-14141-update-taostools-for3.0</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#55b3c8d</div>
+                                        <div class="message">feat: update taos-tools f03c09a for 3.0</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
                                         <span class="repo">taosdata/taos-tools</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">test/sangshuduo/TD-17080-taosdump-functest</span></div>
+                                    <div>on branch <span class="code">develop</span></div>
                                     <div class="commit">
-                                        <div class="sha">#8d189f1</div>
-                                        <div class="message">fix: max files per dir is 100000</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#d7fcff5</div>
-                                        <div class="message">Merge branch 'develop' into test/sangshuduo/TD-17080-taosdump-functest</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#f985260</div>
-                                        <div class="message">chore: enhance taosdump time precision debug (#386)
+                                        <div class="sha">#f03c09a</div>
+                                        <div class="message">fix: taosdump max files per dir is 100000 (#387)
 
 * test: refine tests for taosdump
 
@@ -2866,6 +2881,8 @@
 
 * chore: enhance taosdump time precision debug
 
+* fix: max files per dir is 100000
+
 Co-authored-by: Yang Zhao &lt;yzhao@taosdata.com&gt;</div>
                                     </div>
                                 </div>
@@ -2875,208 +2892,16 @@ Co-authored-by: Yang Zhao &lt;yzhao@taosdata.com&gt;</div>
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
+                                        <path fill-rule="evenodd" d="M7.177 3.073L9.573.677A.25.25 0 0110 .854v4.792a.25.25 0 01-.427.177L7.177 3.427a.25.25 0 010-.354zM3.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122v5.256a2.251 2.251 0 11-1.5 0V5.372A2.25 2.25 0 011.5 3.25zM11 2.5h-1V4h1a1 1 0 011 1v5.628a2.251 2.251 0 101.5 0V5A2.5 2.5 0 0011 2.5zm1 10.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0zM3.75 12a.75.75 0 100 1.5.75.75 0 000-1.5z"/>
                                     </svg>
                                     <div class="content">
-                                        Commented on
-                                        <span class="issue">#9 go mod tidy 就过不去怎么办？</span>
+                                        Merged
+                                        <span class="issue">#387 fix: taosdump max files per dir is 100000</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>opened by bohell in <span class="repo">taosdata/taoskeeper</span></div>
-                                    <div class="comment">$ time go mod tidy
-go: downloading github.com/spf13/pflag v1.0.5
-go: downloading github.com/BurntSushi/toml v0.4.1
-go: downloading github.com/spf13/viper v1.12.0
-go: downloading github.com/taosdata/go-utils v0.0.0-20211022070036-018cc5f2432a
-go: downloading github.com/stretchr/testify v1.7.4
-go: downloading github.com/sirupsen/logrus v1.8.1
-go: downloading github.com/shirou/gopsutil v3.21.11+incompatible
-go: downloading github.com/gin-gonic/gin v1.7.4
-go: downloading github.com/influxdata/telegraf v1.23.3
-go: downloading github.com/prometheus/client_golang v1.12.2
-go: downloading github.com/shopspring/decimal v1.3.1
-go: downloading github.com/taosdata/driver-go/v3 v3.0.0-20220707070353-31ea371e8aa0
-go: downloading github.com/panjf2000/ants/v2 v2.4.6
-go: downloading golang.org/x/sync v0.0.0-20220601150217-0de741cfad7f
-go: downloading github.com/gin-contrib/cors v1.3.1
-go: downloading github.com/gin-contrib/gzip v0.0.3
-go: downloading github.com/gin-contrib/pprof v1.3.0
-go: downloading github.com/fsnotify/fsnotify v1.5.4
-go: downloading github.com/mitchellh/mapstructure v1.5.0
-go: downloading github.com/spf13/afero v1.8.2
-go: downloading github.com/spf13/cast v1.5.0
-go: downloading github.com/spf13/jwalterweatherman v1.1.0
-go: downloading github.com/davecgh/go-spew v1.1.1
-go: downloading github.com/pmezard/go-difflib v1.0.0
-go: downloading gopkg.in/yaml.v3 v3.0.1
-go: downloading golang.org/x/sys v0.0.0-20220610221304-9f5ed59c137d
-go: downloading github.com/tklauser/go-sysconf v0.3.10
-go: downloading github.com/gin-contrib/sse v0.1.0
-go: downloading github.com/mattn/go-isatty v0.0.14
-go: downloading github.com/golang/protobuf v1.5.2
-go: downloading github.com/beorn7/perks v1.0.1
-go: downloading github.com/cespare/xxhash/v2 v2.1.2
-go: downloading github.com/prometheus/client_model v0.2.0
-go: downloading github.com/prometheus/common v0.32.1
-go: downloading github.com/prometheus/procfs v0.7.3
-go: downloading google.golang.org/protobuf v1.28.0
-go: downloading github.com/json-iterator/go v1.1.12
-go: downloading golang.org/x/text v0.3.7
-go: downloading github.com/subosito/gotenv v1.3.0
-go: downloading github.com/hashicorp/hcl v1.0.0
-go: downloading gopkg.in/ini.v1 v1.66.4
-go: downloading github.com/magiconair/properties v1.8.6
-go: downloading github.com/pelletier/go-toml v1.9.5
-go: downloading github.com/pelletier/go-toml/v2 v2.0.1
-go: downloading gopkg.in/yaml.v2 v2.4.0
-go: downloading github.com/ghodss/yaml v1.0.1-0.20190212211648-25d852aebe32
-go: downloading github.com/hashicorp/consul/api v1.12.0
-go: downloading github.com/matttproud/golang_protobuf_extensions v1.0.2-0.20181231171920-c182affec369
-go: downloading k8s.io/api v0.24.2
-go: downloading k8s.io/apimachinery v0.24.2
-go: downloading k8s.io/client-go v0.24.1
-go: downloading github.com/yusufpapurcu/wmi v1.2.2
-go: downloading github.com/go-playground/validator/v10 v10.4.1
-go: downloading github.com/ugorji/go/codec v1.1.7
-go: downloading github.com/tklauser/numcpus v0.4.0
-go: downloading github.com/google/go-cmp v0.5.8
-go: downloading github.com/modern-go/concurrent v0.0.0-20180306012644-bacd9c7ef1dd
-go: downloading github.com/modern-go/reflect2 v1.0.2
-go: downloading github.com/alecthomas/units v0.0.0-20210208195552-ff826a37aa15
-go: downloading github.com/coreos/go-semver v0.3.0
-go: downloading github.com/fatih/color v1.13.0
-go: downloading github.com/influxdata/toml v0.0.0-20190415235208-270119a8ce65
-go: downloading github.com/hashicorp/go-cleanhttp v0.5.2
-go: downloading github.com/hashicorp/go-hclog v1.2.0
-go: downloading github.com/hashicorp/go-rootcerts v1.0.2
-go: downloading github.com/hashicorp/serf v0.9.7
-go: downloading github.com/frankban/quicktest v1.14.3
-go: downloading gopkg.in/check.v1 v1.0.0-20201130134442-10cb98267c6c
-go: downloading github.com/hashicorp/consul/sdk v0.8.0
-go: downloading github.com/hashicorp/go-uuid v1.0.2
-go: downloading github.com/gogo/protobuf v1.3.2
-go: downloading github.com/google/gofuzz v1.1.0
-go: downloading sigs.k8s.io/yaml v1.2.0
-go: downloading k8s.io/klog/v2 v2.60.1
-go: downloading k8s.io/utils v0.0.0-20220210201930-3a6ce19ff2f9
-go: downloading golang.org/x/net v0.0.0-20220607020251-c690dde0001d
-go: downloading github.com/docker/go-connections v0.4.0
-go: downloading github.com/testcontainers/testcontainers-go v0.12.0
-go: downloading github.com/go-ole/go-ole v1.2.6
-go: downloading github.com/go-playground/universal-translator v0.17.0
-go: downloading github.com/leodido/go-urn v1.2.0
-go: downloading golang.org/x/crypto v0.0.0-20220411220226-7b82a4e95df4
-go: downloading github.com/go-playground/assert/v2 v2.0.1
-go: downloading github.com/go-playground/locales v0.13.0
-go: downloading github.com/mattn/go-colorable v0.1.12
-go: downloading github.com/tidwall/gjson v1.14.1
-go: downloading github.com/naoina/go-stringutil v0.1.0
-go: downloading github.com/kylelemons/godebug v1.1.0
-go: downloading github.com/mitchellh/go-homedir v1.1.0
-go: downloading github.com/armon/go-metrics v0.3.10
-go: downloading github.com/kr/pretty v0.3.0
-go: downloading github.com/hashicorp/go-msgpack v0.5.5
-go: downloading github.com/hashicorp/memberlist v0.3.0
-go: downloading github.com/stretchr/objx v0.4.0
-go: downloading github.com/pkg/errors v0.9.1
-go: downloading gopkg.in/inf.v0 v0.9.1
-go: downloading sigs.k8s.io/structured-merge-diff/v4 v4.2.1
-go: downloading sigs.k8s.io/json v0.0.0-20211208200746-9f7c6b3444d2
-go: downloading github.com/go-logr/logr v1.2.3
-go: downloading github.com/google/gnostic v0.5.7-v3refs
-go: downloading golang.org/x/time v0.0.0-20220609170525-579cf78fd858
-go: downloading golang.org/x/term v0.0.0-20210927222741-03fcf44c2211
-go: downloading golang.org/x/oauth2 v0.0.0-20220608161450-d0670ef3b1eb
-go: downloading k8s.io/kube-openapi v0.0.0-20220328201542-3ee0da9b0b42
-go: downloading github.com/cenkalti/backoff v2.2.1+incompatible
-go: downloading github.com/docker/docker v20.10.17+incompatible
-go: downloading github.com/google/uuid v1.3.0
-go: downloading github.com/moby/term v0.0.0-20201216013528-df9cb8a40635
-go: downloading github.com/gobwas/glob v0.2.3
-go: downloading github.com/tidwall/match v1.1.1
-go: downloading github.com/tidwall/pretty v1.2.0
-go: downloading github.com/dimchansky/utfbom v1.1.1
-go: downloading collectd.org v0.5.0
-go: downloading github.com/vjeantet/grok v1.0.1
-go: downloading github.com/influxdata/line-protocol/v2 v2.2.1
-go: downloading github.com/go-logfmt/logfmt v0.5.1
-go: downloading github.com/prometheus/prometheus v1.8.2-0.20210430082741-2a4b8e12bbf2
-go: downloading github.com/tinylib/msgp v1.1.6
-go: downloading github.com/golang/snappy v0.0.4
-go: downloading github.com/antchfx/jsonquery v1.2.0
-go: downloading github.com/antchfx/xmlquery v1.3.9
-go: downloading github.com/antchfx/xpath v1.2.1
-go: downloading github.com/doclambda/protobufquery v0.0.0-20210317203640-88ffabe06a60
-go: downloading github.com/jhump/protoreflect v1.8.3-0.20210616212123-6cc1efa697ca
-go: downloading github.com/hashicorp/go-immutable-radix v1.3.1
-go: downloading github.com/pascaldekloe/goe v0.1.0
-go: downloading github.com/kr/text v0.2.0
-go: downloading github.com/rogpeppe/go-internal v1.6.2
-go: downloading github.com/google/btree v1.0.1
-go: downloading github.com/hashicorp/go-multierror v1.1.1
-go: downloading github.com/hashicorp/go-sockaddr v1.0.2
-go: downloading github.com/miekg/dns v1.1.48
-go: downloading github.com/sean-/seed v0.0.0-20170313163322-e2103e2c3529
-go: downloading github.com/mitchellh/go-testing-interface v1.0.0
-go: downloading github.com/munnerz/goautoneg v0.0.0-20191010083416-a7dc8b61c822
-go: downloading github.com/go-openapi/swag v0.19.15
-go: downloading github.com/docker/go-units v0.4.0
-go: downloading github.com/opencontainers/image-spec v1.0.2
-go: downloading github.com/morikuni/aec v1.0.0
-go: downloading github.com/containerd/containerd v1.5.13
-go: downloading github.com/docker/distribution v2.7.1+incompatible
-go: downloading github.com/opencontainers/go-digest v1.0.0
-go: downloading github.com/bmatcuk/doublestar/v3 v3.0.0
-go: downloading go.uber.org/multierr v1.6.0
-go: downloading github.com/philhofer/fwd v1.1.1
-go: downloading github.com/wavefronthq/wavefront-sdk-go v0.9.11
-go: downloading github.com/golang/groupcache v0.0.0-20210331224755-41bb18bfe9da
-go: downloading github.com/influxdata/line-protocol-corpus v0.0.0-20210922080147-aa28ccfb8937
-go: downloading github.com/hashicorp/golang-lru v0.5.4
-go: downloading google.golang.org/genproto v0.0.0-20220617124728-180714bec0ad
-go: downloading github.com/hashicorp/errwrap v1.0.0
-go: downloading google.golang.org/appengine v1.6.7
-go: downloading github.com/emicklei/go-restful v2.9.5+incompatible
-go: downloading github.com/go-openapi/jsonreference v0.19.5
-go: downloading golang.org/x/tools v0.1.9
-go: downloading github.com/mailru/easyjson v0.7.7
-go: downloading github.com/opencontainers/runc v1.1.2
-go: downloading github.com/Microsoft/hcsshim v0.8.24
-go: downloading github.com/moby/sys/mount v0.2.0
-go: downloading github.com/Microsoft/go-winio v0.4.17
-go: downloading github.com/Azure/go-ansiterm v0.0.0-20170929234023-d6e3b3328b78
-go: downloading go.uber.org/atomic v1.9.0
-go: downloading github.com/onsi/ginkgo v1.16.4
-go: downloading github.com/onsi/gomega v1.15.0
-go: downloading github.com/PuerkitoBio/purell v1.1.1
-go: downloading github.com/go-openapi/jsonpointer v0.19.5
-go: downloading github.com/josharian/intern v1.0.0
-go: downloading github.com/moby/sys/mountinfo v0.5.0
-go: downloading github.com/caio/go-tdigest v3.1.0+incompatible
-go: downloading github.com/PuerkitoBio/urlesc v0.0.0-20170810143723-de5bf2ad4578
-go: downloading go.opencensus.io v0.23.0
-go: downloading github.com/nxadm/tail v1.4.8
-go: downloading github.com/containerd/cgroups v1.0.3
-go: downloading github.com/leesper/go_rng v0.0.0-20190531154944-a612b043e353
-go: downloading gonum.org/v1/gonum v0.11.0
-go: downloading gopkg.in/tomb.v1 v1.0.0-20141024135613-dd632973f1e7
-go: downloading golang.org/x/xerrors v0.0.0-20220609144429-65e65417b02f
-go: downloading golang.org/x/mod v0.5.1
-go: downloading github.com/cespare/xxhash v1.1.0
-go: downloading github.com/ugorji/go v1.1.7
-go: downloading k8s.io/klog v1.0.0
-go: downloading github.com/influxdata/line-protocol v0.0.0-20180522152040-32c6aa80de5e
-real    0m21.674s
-user    0m10.894s
-sys     0m2.973s
-shuduo@norepeat ~/work/taosdata/taoskeeper (master)6484ede$ time go build
-real    0m51.588s
-user    2m45.083s
-sys     0m15.992s
-shuduo@norepeat ~/work/taosdata/taoskeeper (master)6484ede$ go version
-go version go1.18.1 linux/amd64
-我没问题</div>
+                                    <div> in <span class="repo">taosdata/taos-tools</span></div>
+                                    <div>1 file changed <span class="code">++1 --1</span></div>
                                 </div>
                             </section>
                         </div>
@@ -3088,80 +2913,12 @@ go version go1.18.1 linux/amd64
                                     </svg>
                                     <div class="content">
                                         Opened
-                                        <span class="issue">#17055 feat: update taostools f985260 for2.6</span>
+                                        <span class="issue">#387 fix: taosdump max files per dir is 100000</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div> in <span class="repo">taosdata/TDengine</span></div>
+                                    <div> in <span class="repo">taosdata/taos-tools</span></div>
                                     <div>1 file changed <span class="code">++1 --1</span></div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 3 commits in
-                                        <span class="repo">taosdata/TDengine</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">feat/sangshuduo/TD-14141-update-taostools-for2.6</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#3c477b1</div>
-                                        <div class="message">feat: update taos-tools f985260 for 2.6</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#d89e6bf</div>
-                                        <div class="message">Merge branch '2.6' into feat/sangshuduo/TD-14141-update-taostools-for2.6</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#3796482</div>
-                                        <div class="message">feat: update taostools cf1df1c for2.6 (#17025)
-
-* feat: update taos-tools f169c0f for 2.6
-
-* feat: update taos-tools a4d9b92 for 2.6
-
-* feat: update taos-tools 7d5c1c0 for 2.6
-
-* fix: 5-taos-tools/taosbenchmark/taosdemoTestInsertWithJson-childTable.py
-
-after, create table without if not exits
-
-* fix: 5-taos-tools/taosbenchmark/taosdemoTestInsertWithJsonStmt.py
-
-after, create table without if not exits
-
-* feat: update taos-tools 2.2.0 (2dba49c) for 2.6
-
-* feat: update test cases
-
-* feat: update taos-tools 404d8da for 2.6
-
-* test: fix location in develop-test/5-taos-tools/taosbenchmark/demo.py
-
-* feat: update taos-tools 3588b3d for 2.6
-
-* feat: update taos-tools 9f4c01e for 2.6
-
-* feat: update taos-tools e7270c9 for 2.6
-
-* feat: update taos-tools 9e75540 for 2.6
-
-* feat: update taos-tools 125c77a for 2.6
-
-* feat: update taos-tools 318246c for 2.6
-
-* feat: update taos-tools 285b5e0 for 2.6
-
-* feat: update taos-tools 8207c74 for 2.6
-
-* feat: update taos-tools cf1df1c for 2.6</div>
-                                    </div>
                                 </div>
                             </section>
                         </div>
@@ -3604,7 +3361,7 @@ I wonder what the problem is and if there is a more reasonable solution?</div>
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="33.03696098562626 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="33.12183436002738 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g xmlns="http://www.w3.org/2000/svg" transform="translate(5 4)" fill="none" fill-rule="evenodd">
@@ -3866,7 +3623,7 @@ I wonder what the problem is and if there is a more reasonable solution?</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 26 Sept 2022, 00:16:02 (timezone Asia/Shanghai) with lowlighter/metrics@3.28.0</span>
+                <span>Last updated 26 Sept 2022, 01:17:59 (timezone Asia/Shanghai) with lowlighter/metrics@3.28.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
