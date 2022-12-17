@@ -69,7 +69,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            19317 Commits
+                            19319 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -177,7 +177,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    119k added, 2.54k removed
+                                    118k added, 2.19k removed
                                 </div>
                             </section>
                             <section>
@@ -2464,7 +2464,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>KanHarI/gpt-commit-summarizer</span>
-                                        <span>starred 12 hours ago</span>
+                                        <span>starred 13 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -2713,34 +2713,14 @@
                                     </svg>
                                     <div class="content">
                                         Pushed 1 commit in
-                                        <span class="repo">taosdata/TDengine</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">feat/sangshuduo/TD-12436-code-coverage</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#638f8e9</div>
-                                        <div class="message">fix: taos-tools 8a0aa0b</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
                                         <span class="repo">taosdata/taos-tools</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">feat/sangshuduo/TD12436-code-coverage</span></div>
                                     <div class="commit">
-                                        <div class="sha">#8a0aa0b</div>
-                                        <div class="message">fix: mac compile 4th</div>
+                                        <div class="sha">#41acc96</div>
+                                        <div class="message">fix: linux compile error</div>
                                     </div>
                                 </div>
                             </section>
@@ -2759,8 +2739,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">feat/sangshuduo/TD-12436-code-coverage</span></div>
                                     <div class="commit">
-                                        <div class="sha">#7771c82</div>
-                                        <div class="message">feat: update taos-tools ffa04b3</div>
+                                        <div class="sha">#26067f4</div>
+                                        <div class="message">feat: update taos-tools 41acc96</div>
                                     </div>
                                 </div>
                             </section>
@@ -2779,8 +2759,28 @@
                                 <div class="details">
                                     <div>on branch <span class="code">feat/sangshuduo/TD12436-code-coverage</span></div>
                                     <div class="commit">
-                                        <div class="sha">#ffa04b3</div>
-                                        <div class="message">fix: mac compile 3rd</div>
+                                        <div class="sha">#980946c</div>
+                                        <div class="message">fix: mac compile error 6th</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">taosdata/TDengine</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">feat/sangshuduo/TD-12436-code-coverage</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#0fe401c</div>
+                                        <div class="message">feat: update taos-tools 980946c</div>
                                     </div>
                                 </div>
                             </section>
@@ -2799,8 +2799,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">feat/sangshuduo/TD12436-code-coverage</span></div>
                                     <div class="commit">
-                                        <div class="sha">#827b6dd</div>
-                                        <div class="message">fix: mac compile error again</div>
+                                        <div class="sha">#13b5d1c</div>
+                                        <div class="message">fix: mac compile 5th</div>
                                     </div>
                                 </div>
                             </section>
@@ -3516,7 +3516,7 @@ thanks</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 18 Dec 2022, 01:08:26 (timezone Asia/Shanghai) with lowlighter/metrics@3.30.0</span>
+                <span>Last updated 18 Dec 2022, 02:11:27 (timezone Asia/Shanghai) with lowlighter/metrics@3.30.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
