@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="3113" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="3479" class="">
     <defs>
         <style/>
     </defs>
@@ -69,7 +69,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            19405 Commits
+                            19404 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -177,7 +177,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    105k added, 2.37k removed
+                                    105k added, 2.28k removed
                                 </div>
                             </section>
                             <section>
@@ -2449,7 +2449,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>microsoft/pyright</span>
-                                        <span>starred 8 hours ago</span>
+                                        <span>starred 9 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Static type checker for Python</div>
@@ -2502,7 +2502,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>scriptiot/evue</span>
-                                        <span>starred 8 hours ago</span>
+                                        <span>starred 9 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Evue is a high-performance gui framework base an html/css which can run on windows/linux/macos/web/ios/andriod/rtos! Write once, run everywhere! .</div>
@@ -2523,7 +2523,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
                                         </svg>
-                                        35
+                                        36
                                     </div>
                                     <div>
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -2708,6 +2708,138 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
+                                        Pushed 164 commits in
+                                        <span class="repo">taosdata/TDengine</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">fix/sangshuduo/TD-21611-taosbenchmark-sanitize</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#ed43aea</div>
+                                        <div class="message">enh: add vndCommitMaxInterval cfg param</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#e8e189c</div>
+                                        <div class="message">enh: add sync log buffer info in logging msg in syncLogReplMgrRetryOnNeed</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#e22ce2d</div>
+                                        <div class="message">fix: use pReply-&gt;lastSendIndex instead while updating commitIndex</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#d307413</div>
+                                        <div class="message">Merge branch 'main' into FIX/TD-21043-main</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#044e58b</div>
+                                        <div class="message">enh: adjust logging msgs for sync probe and rollback</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#2890a8c</div>
+                                        <div class="message">fix: return error on failing to truncate raft log</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#0c4ade9</div>
+                                        <div class="message">fix: update sync node commitIndex only if matchTerm equals currentTerm upon heartbeat</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#c4fad84</div>
+                                        <div class="message">enh: reset commitVer in WAL on restore</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#724cf98</div>
+                                        <div class="message">fix: be conservative on commit progress in appendEntries</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#6fc47be</div>
+                                        <div class="message">enh: streamMetaCommit in sync with vnodeCommit</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#92e05b8</div>
+                                        <div class="message">enh: schedule vnodeCommit uniformly distributed</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#691b75a</div>
+                                        <div class="message">enh: flush database for test cases of rsma</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#8916722</div>
+                                        <div class="message">Merge branch main to FIX/TD-21043-main</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#c1c7f25</div>
+                                        <div class="message">enh: initialize commitMs as the time when vnodeOpen</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#137e7d0</div>
+                                        <div class="message">fix: update nextRowIterGet of tsdbCache</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#fda2f55</div>
+                                        <div class="message">Merge branch main to FIX/TD-21043-main</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#7227e53</div>
+                                        <div class="message">fix: set restore finish only after reaching the current term</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#32f570c</div>
+                                        <div class="message">Merge remote-tracking branch 'origin' into enh/TD-21108</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#5159d60</div>
+                                        <div class="message">enh: vnodeCommit on consensus only</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#08e6d9a</div>
+                                        <div class="message">enh: write coredump bt to log file</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 4 commits in
+                                        <span class="repo">taosdata/taos-tools</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">fix/sangshuduo/TD-21611-taosbenchmark-sanitize</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#00ee0ec</div>
+                                        <div class="message">fix: use snprintf for tag to avoid oversize name overflow</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#80b7876</div>
+                                        <div class="message">Merge branch 'develop' into fix/sangshuduo/TD-21611-taosbenchmark-sanitize</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#b90d7bd</div>
+                                        <div class="message">fix: 2.x windows build workflow (#547)
+
+* fix: add -compn to deb/rpm
+
+* fix: 2.x windows build workflow</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#5aa25e9</div>
+                                        <div class="message">fix: add -compn to deb/rpm (#546)</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
                                         Pushed 1 commit in
                                         <span class="repo">taosdata/taos-connector-python</span>
                                     </div>
@@ -2763,46 +2895,6 @@
                                 </div>
                                 <div class="details">
                                     <div>opened by sunpe in <span class="repo">taosdata/taos-connector-python</span></div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">taosdata/TDinternal</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">chore/sangshuduo/TS-2445-release-with-sanitizer</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#26194f9</div>
-                                        <div class="message">fix: no quote in tag</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">taosdata/TDinternal</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">chore/sangshuduo/TS-2445-release-with-sanitizer</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#521bd48</div>
-                                        <div class="message">chore: change tag in community cmake.txt.in</div>
-                                    </div>
                                 </div>
                             </section>
                         </div>
@@ -3517,7 +3609,7 @@ thanks</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 11 Jan 2023, 21:21:31 (timezone Asia/Shanghai) with lowlighter/metrics@3.31.0</span>
+                <span>Last updated 11 Jan 2023, 22:12:57 (timezone Asia/Shanghai) with lowlighter/metrics@3.31.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
