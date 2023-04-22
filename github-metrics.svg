@@ -2464,7 +2464,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>web-infra-dev/rspack</span>
-                                        <span>starred 12 hours ago</span>
+                                        <span>starred 13 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A fast Rust-based web bundler 🦀️</div>
@@ -2517,7 +2517,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>tetratelabs/wazero</span>
-                                        <span>starred 13 hours ago</span>
+                                        <span>starred 14 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">wazero: the zero dependency WebAssembly runtime for Go developers</div>
@@ -2570,7 +2570,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>meshery/meshery</span>
-                                        <span>starred 13 hours ago</span>
+                                        <span>starred 14 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Meshery, the cloud native manager</div>
@@ -3522,7 +3522,7 @@ thanks</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 23 Apr 2023, 02:10:59 (timezone Asia/Shanghai) with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 23 Apr 2023, 03:07:45 (timezone Asia/Shanghai) with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
