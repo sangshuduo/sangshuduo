@@ -2464,7 +2464,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>AliRn76/panther</span>
-                                        <span>starred 6 hours ago</span>
+                                        <span>starred 7 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Fast &amp; Friendly Python Web Framework</div>
@@ -2517,7 +2517,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Qiskit/rustworkx</span>
-                                        <span>starred 6 hours ago</span>
+                                        <span>starred 7 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A high performance Python graph library implemented in Rust.</div>
@@ -2570,7 +2570,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>hikogui/hikogui</span>
-                                        <span>starred 7 hours ago</span>
+                                        <span>starred 8 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Modern accelerated GUI</div>
@@ -2623,7 +2623,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>userver-framework/userver</span>
-                                        <span>starred 7 hours ago</span>
+                                        <span>starred 8 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Production-ready C++ Asynchronous Framework with rich functionality</div>
@@ -3509,7 +3509,7 @@ thanks</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 14 Oct 2023, 15:08:31 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 14 Oct 2023, 16:10:52 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
