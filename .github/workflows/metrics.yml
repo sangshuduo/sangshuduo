@@ -47,7 +47,7 @@ jobs:
           user: sangshuduo
           template: classic
           base: header, activity, community, repositories, metadata
-          config_timezone: Asia/Shanghai
+          config_timezone: Canada/Atlantic
           plugin_achievements: yes
           plugin_achievements_display: detailed
           plugin_achievements_limit: 10
