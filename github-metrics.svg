@@ -69,7 +69,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            26500 Commits
+                            26495 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -2449,7 +2449,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>go-critic/go-critic</span>
-                                        <span>starred 18 hours ago</span>
+                                        <span>starred 19 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">The most opinionated Go source code linter for code audit.</div>
@@ -2502,7 +2502,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>zigzap/zap</span>
-                                        <span>starred 19 hours ago</span>
+                                        <span>starred 20 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">blazingly fast backends in zig</div>
@@ -3324,7 +3324,7 @@ thanks</div>
                                 <div class="title">
                                     <span class="prefix">Super</span>
                                     developer
-                                    <span class="gh">ranked 278k out of 128m users</span>
+                                    <span class="gh">ranked 278k out of 123m users</span>
                                 </div>
                                 <div class="text">Published 79 public repositories</div>
                             </div>
@@ -3487,7 +3487,7 @@ thanks</div>
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Influencer
-                                    <span class="gh">ranked 123k out of 128m users</span>
+                                    <span class="gh">ranked 123k out of 123m users</span>
                                 </div>
                                 <div class="text">Followed by 86 users</div>
                             </div>
@@ -3497,7 +3497,7 @@ thanks</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 24 Jan 2024, 17:09:10 (timezone Canada/Atlantic) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 24 Jan 2024, 18:09:38 (timezone Canada/Atlantic) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
