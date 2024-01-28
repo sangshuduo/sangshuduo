@@ -2469,7 +2469,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>extism/extism</span>
-                                        <span>starred 10 hours ago</span>
+                                        <span>starred 11 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">The framework for building with WebAssembly (wasm). Easily load wasm modules, move data, call functions, and build extensible apps.</div>
@@ -2522,7 +2522,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>glotlabs/gdrive</span>
-                                        <span>starred 10 hours ago</span>
+                                        <span>starred 11 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Google Drive CLI Client</div>
@@ -2575,7 +2575,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>InternLM/HuixiangDou</span>
-                                        <span>starred 12 hours ago</span>
+                                        <span>starred 13 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">HuixiangDou: Overcoming Group Chat Scenarios with LLM-based Technical Assistance</div>
@@ -2628,7 +2628,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>volfpeter/fasthx</span>
-                                        <span>starred 12 hours ago</span>
+                                        <span>starred 13 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">FastAPI and HTMX, the right way.</div>
@@ -3525,7 +3525,7 @@ thanks</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 28 Jan 2024, 00:12:09 (timezone Canada/Atlantic) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 28 Jan 2024, 01:09:54 (timezone Canada/Atlantic) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
