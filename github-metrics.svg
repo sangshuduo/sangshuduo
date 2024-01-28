@@ -2469,7 +2469,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>extism/extism</span>
-                                        <span>starred 17 hours ago</span>
+                                        <span>starred 18 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">The framework for building with WebAssembly (wasm). Easily load wasm modules, move data, call functions, and build extensible apps.</div>
@@ -2503,7 +2503,7 @@
                                             <path d="M8 9.5a1.5 1.5 0 100-3 1.5 1.5 0 000 3z"/>
                                             <path fill-rule="evenodd" d="M8 0a8 8 0 100 16A8 8 0 008 0zM1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0z"/>
                                         </svg>
-                                        96
+                                        97
                                     </div>
                                     <div>
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -2522,7 +2522,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>glotlabs/gdrive</span>
-                                        <span>starred 17 hours ago</span>
+                                        <span>starred 18 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Google Drive CLI Client</div>
@@ -2575,7 +2575,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>InternLM/HuixiangDou</span>
-                                        <span>starred 19 hours ago</span>
+                                        <span>starred 20 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">HuixiangDou: Overcoming Group Chat Scenarios with LLM-based Technical Assistance</div>
@@ -2628,7 +2628,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>volfpeter/fasthx</span>
-                                        <span>starred 19 hours ago</span>
+                                        <span>starred 20 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">FastAPI and HTMX, the right way.</div>
@@ -3525,7 +3525,7 @@ thanks</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 28 Jan 2024, 07:07:14 (timezone Canada/Atlantic) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 28 Jan 2024, 08:14:35 (timezone Canada/Atlantic) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
