@@ -2449,7 +2449,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>HKUDS/UrbanGPT</span>
-                                        <span>starred 8 hours ago</span>
+                                        <span>starred 9 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">[KDD'2024] "UrbanGPT: Spatio-Temporal Large Language Models"</div>
@@ -2502,7 +2502,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>danielmiessler/SecLists</span>
-                                        <span>starred 9 hours ago</span>
+                                        <span>starred 10 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">SecLists is the security tester's companion. It's a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more.</div>
@@ -2555,7 +2555,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>vanhauser-thc/thc-hydra</span>
-                                        <span>starred 10 hours ago</span>
+                                        <span>starred 11 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">hydra</div>
@@ -2608,7 +2608,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>andresriancho/w3af</span>
-                                        <span>starred 14 hours ago</span>
+                                        <span>starred 15 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">w3af: web application attack and audit framework, the open source web vulnerability scanner.</div>
@@ -3485,7 +3485,7 @@ thanks</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 3 Jul 2024, 03:16:15 (timezone Canada/Atlantic) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 3 Jul 2024, 04:10:43 (timezone Canada/Atlantic) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
