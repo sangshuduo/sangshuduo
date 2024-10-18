@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="3446" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="3146" class="">
     <defs>
         <style/>
     </defs>
@@ -177,7 +177,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    50.7k added, 26.8k removed
+                                    98.8k added, 77.6k removed
                                 </div>
                             </section>
                             <section>
@@ -2459,7 +2459,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>AgnostiqHQ/covalent</span>
-                                        <span>starred 18 hours ago</span>
+                                        <span>starred 19 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Pythonic tool for orchestrating machine-learning/high performance/quantum-computing workflows in heterogeneous compute environments.</div>
@@ -2512,7 +2512,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>mufeedvh/binserve</span>
-                                        <span>starred 18 hours ago</span>
+                                        <span>starred 20 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A fast production-ready static web server with TLS (HTTPS), routing, hot reloading, caching, templating, and security in a single-binary you can set up with zero code.</div>
@@ -2565,7 +2565,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>wg/wrk</span>
-                                        <span>starred 18 hours ago</span>
+                                        <span>starred 20 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Modern HTTP benchmarking tool</div>
@@ -2633,7 +2633,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
                                         </svg>
-                                        453
+                                        454
                                     </div>
                                     <div>
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -2712,21 +2712,25 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 2 commits in
+                                        Pushed 3 commits in
                                         <span class="repo">sangshuduo/nvim</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">v2.0</span></div>
+                                    <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#e44dd10</div>
-                                        <div class="message">Merge pull request #89 from sangshuduo/add-line-col-to-statusline.patch
+                                        <div class="sha">#f9d5d86</div>
+                                        <div class="message">Merge pull request #1 from sangshuduo/add-custom-plugins
 
-fix: vim.deprecated function get_active_clients()</div>
+Add custom plugins</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#1aefac9</div>
-                                        <div class="message">fix: vim.deprecated function get_active_clients()</div>
+                                        <div class="sha">#201493e</div>
+                                        <div class="message">change statusline theme to vscode_colored in lua/chadrc.lua</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#87a391f</div>
+                                        <div class="message">add lua/plugins/plugins.lua</div>
                                     </div>
                                 </div>
                             </section>
@@ -2739,12 +2743,12 @@ fix: vim.deprecated function get_active_clients()</div>
                                     </svg>
                                     <div class="content">
                                         Merged
-                                        <span class="issue">#89 fix: vim.deprecated function get_active_clients()</span>
+                                        <span class="issue">#1 Add custom plugins</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div> in <span class="repo">sangshuduo/nvim</span></div>
-                                    <div>1 file changed <span class="code">++11 --2</span></div>
+                                    <div>2 files changed <span class="code">++254 --0</span></div>
                                 </div>
                             </section>
                         </div>
@@ -2756,12 +2760,12 @@ fix: vim.deprecated function get_active_clients()</div>
                                     </svg>
                                     <div class="content">
                                         Opened
-                                        <span class="issue">#89 fix: vim.deprecated function get_active_clients()</span>
+                                        <span class="issue">#1 Add custom plugins</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div> in <span class="repo">sangshuduo/nvim</span></div>
-                                    <div>1 file changed <span class="code">++11 --2</span></div>
+                                    <div>2 files changed <span class="code">++254 --0</span></div>
                                 </div>
                             </section>
                         </div>
@@ -2772,111 +2776,15 @@ fix: vim.deprecated function get_active_clients()</div>
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 287 commits in
+                                        Pushed 1 commit in
                                         <span class="repo">sangshuduo/nvim</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">add-line-col-to-statusline.patch</span></div>
+                                    <div>on branch <span class="code">add-custom-plugins</span></div>
                                     <div class="commit">
-                                        <div class="sha">#0845398</div>
-                                        <div class="message">rm un-needed lazyload function</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#936131c</div>
-                                        <div class="message">move ui plugin config to chadrc UI table</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#d142ac8</div>
-                                        <div class="message">use dev branch for ui/base46 plugins
-
-this is temporary, gets easy to test dev changes locally</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#99f6b21</div>
-                                        <div class="message">remove alpha plugin</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#4971e07</div>
-                                        <div class="message">rm support for ooold plugin syntax</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#cdbdd66</div>
-                                        <div class="message">use default mapping for diagnostic goto_next</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#4db58e4</div>
-                                        <div class="message">add glyph icon for untracked icon (gitsigns</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#c625293</div>
-                                        <div class="message">use rev-parse instead of status</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#d3fe3fc</div>
-                                        <div class="message">enable gitsigns when opening nvim from a none git repository</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#0611d5c</div>
-                                        <div class="message">Merge remote-tracking branch 'origin/dev'</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#28db7c7</div>
-                                        <div class="message">Update README.md</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#374b036</div>
-                                        <div class="message">Merge pull request #48 from sangshuduo/add-line-col-to-statusline.patch
-
-add add-line-col-to-statusline.patch</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#08e675b</div>
-                                        <div class="message">Add .luarc.json to .gitignore
-
-Using `coc-lua` with `coc.nvim` will produce a `.luarc.json` when editing own custom configs that should be excluded from NvChad, since NvChad does not maintain its own `.luarc.json`</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#cdc970a</div>
-                                        <div class="message">Add coc-settings.json to .gitignore
-
-One might decide to install coc.nvim which requires to maintain a custom configuration at the root of the `nvim` folder (created with the command `:CocConfig`). It is recommend to ignore the file to avoid update conflicts as NvChad does not ship coc.nvim.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#0175082</div>
-                                        <div class="message">avoid flooding mason.nvim binaries path</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#1f34e72</div>
-                                        <div class="message">keep some gitsigns mappings only | rm 0.7v related stuff</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#21e9e3c</div>
-                                        <div class="message">config(cmp): correcting completeopt setup
-
-From the neovim doc,
-In Vimscript:
-    `set completeopt=menu,menuone,noselect`
-
-In Lua using `vim.o`:
-    `vim.o.completeopt = 'menu,menuone,noselect'`
-
-In Lua using `vim.opt`:
-    `vim.opt.wildignore = { 'menu', 'menuoune', 'noselect' }`</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#adc3130</div>
-                                        <div class="message">reduce loc</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#9eebb91</div>
-                                        <div class="message">add arg to make telescope search through symlink dirs
-
-#1609</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#3fe07c8</div>
-                                        <div class="message">feat: add buffer mapping for gitsigns</div>
+                                        <div class="sha">#201493e</div>
+                                        <div class="message">change statusline theme to vscode_colored in lua/chadrc.lua</div>
                                     </div>
                                 </div>
                             </section>
@@ -2885,11 +2793,14 @@ In Lua using `vim.opt`:
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
+                                        <path fill-rule="evenodd" d="M11.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122V6A2.5 2.5 0 0110 8.5H6a1 1 0 00-1 1v1.128a2.251 2.251 0 11-1.5 0V5.372a2.25 2.25 0 111.5 0v1.836A2.492 2.492 0 016 7h4a1 1 0 001-1v-.628A2.25 2.25 0 019.5 3.25zM4.25 12a.75.75 0 100 1.5.75.75 0 000-1.5zM3.5 3.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0z"/>
                                     </svg>
                                     <div class="content">
-                                        Starred
-                                        <span class="repo">AgnostiqHQ/covalent</span>
+                                        Created new
+                      branch
+                                        <span class="code">add-custom-plugins</span>
+                                        in
+                                        <span class="repo">sangshuduo/nvim</span>
                                     </div>
                                 </div>
                             </section>
@@ -3590,7 +3501,7 @@ thanks</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 18 Oct 2024, 08:10:47 (timezone Canada/Atlantic) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 18 Oct 2024, 09:22:16 (timezone Canada/Atlantic) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
