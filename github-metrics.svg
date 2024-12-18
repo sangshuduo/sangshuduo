@@ -41,7 +41,7 @@
                                     <rect class="day" x="120" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="135" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="165" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
+                                    <rect class="day" x="165" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                                     <rect class="day" x="180" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
                                     <rect class="day" x="195" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
                                 </g>
@@ -69,7 +69,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            28609 Commits
+                            28610 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -81,7 +81,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M7.177 3.073L9.573.677A.25.25 0 0110 .854v4.792a.25.25 0 01-.427.177L7.177 3.427a.25.25 0 010-.354zM3.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122v5.256a2.251 2.251 0 11-1.5 0V5.372A2.25 2.25 0 011.5 3.25zM11 2.5h-1V4h1a1 1 0 011 1v5.628a2.251 2.251 0 101.5 0V5A2.5 2.5 0 0011 2.5zm1 10.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0zM3.75 12a.75.75 0 100 1.5.75.75 0 000-1.5z"/>
                             </svg>
-                            525 Pull requests opened
+                            526 Pull requests opened
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -177,7 +177,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    35.1k added, 26k removed
+                                    36.2m added, 147k removed
                                 </div>
                             </section>
                             <section>
@@ -2648,7 +2648,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path fill-rule="evenodd" d="M7.177 3.073L9.573.677A.25.25 0 0110 .854v4.792a.25.25 0 01-.427.177L7.177 3.427a.25.25 0 010-.354zM3.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122v5.256a2.251 2.251 0 11-1.5 0V5.372A2.25 2.25 0 011.5 3.25zM11 2.5h-1V4h1a1 1 0 011 1v5.628a2.251 2.251 0 101.5 0V5A2.5 2.5 0 0011 2.5zm1 10.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0zM3.75 12a.75.75 0 100 1.5.75.75 0 000-1.5z"/>
                                         </svg>
-                                        108
+                                        110
                                     </div>
                                 </div>
                             </section>
@@ -2715,16 +2715,17 @@
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#0e5c480</div>
-                                        <div class="message">Merge pull request #17 from huski-inc/feat/sangshuduo/csv-as-input
+                                        <div class="sha">#06f2934</div>
+                                        <div class="message">Merge pull request #20 from huski-inc/feat/sangshuduo/csv-as-input
 
-fix(EasyOCR, logo_detect): fix variable names in CSV processing</div>
+fix(utils): fix file upload logging</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#4573109</div>
-                                        <div class="message">fix(EasyOCR, logo_detect): fix variable names in CSV processing
+                                        <div class="sha">#3da9880</div>
+                                        <div class="message">fix(utils): fix file upload logging
 
-- Change variable names `s3_bucket` and `s3_path` to `row_s3_bucket` and `row_s3_path` respectively in the CSV processing logic of `easy-ocr-service.py` and `logo-detection-service.py` files.
+- Update file upload logging to include the full S3 path.
+- Ensure bucket owner has full control when uploading files.
 
 https://github.com/huski-inc/product_risk_analysis_img/issues/13</div>
                                     </div>
@@ -2739,12 +2740,12 @@ https://github.com/huski-inc/product_risk_analysis_img/issues/13</div>
                                     </svg>
                                     <div class="content">
                                         Merged
-                                        <span class="issue">#17 fix(EasyOCR, logo_detect): fix variable names in CSV processing</span>
+                                        <span class="issue">#20 fix(utils): fix file upload logging</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div> in <span class="repo">huski-inc/product_risk_analysis_img</span></div>
-                                    <div>2 files changed <span class="code">++8 --8</span></div>
+                                    <div>4 files changed <span class="code">++10 --8</span></div>
                                 </div>
                             </section>
                         </div>
@@ -2756,12 +2757,12 @@ https://github.com/huski-inc/product_risk_analysis_img/issues/13</div>
                                     </svg>
                                     <div class="content">
                                         Opened
-                                        <span class="issue">#17 fix(EasyOCR, logo_detect): fix variable names in CSV processing</span>
+                                        <span class="issue">#20 fix(utils): fix file upload logging</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div> in <span class="repo">huski-inc/product_risk_analysis_img</span></div>
-                                    <div>2 files changed <span class="code">++8 --8</span></div>
+                                    <div>4 files changed <span class="code">++10 --8</span></div>
                                 </div>
                             </section>
                         </div>
@@ -2779,18 +2780,19 @@ https://github.com/huski-inc/product_risk_analysis_img/issues/13</div>
                                 <div class="details">
                                     <div>on branch <span class="code">feat/sangshuduo/csv-as-input</span></div>
                                     <div class="commit">
-                                        <div class="sha">#4573109</div>
-                                        <div class="message">fix(EasyOCR, logo_detect): fix variable names in CSV processing
+                                        <div class="sha">#3da9880</div>
+                                        <div class="message">fix(utils): fix file upload logging
 
-- Change variable names `s3_bucket` and `s3_path` to `row_s3_bucket` and `row_s3_path` respectively in the CSV processing logic of `easy-ocr-service.py` and `logo-detection-service.py` files.
+- Update file upload logging to include the full S3 path.
+- Ensure bucket owner has full control when uploading files.
 
 https://github.com/huski-inc/product_risk_analysis_img/issues/13</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#77f404e</div>
-                                        <div class="message">Merge pull request #16 from huski-inc/feat/sangshuduo/csv-as-input
+                                        <div class="sha">#1d1552a</div>
+                                        <div class="message">Merge pull request #19 from huski-inc/feat/sangshuduo/csv-as-input
 
-fix(service): fix failed to download file(s) error</div>
+chore: Update versions in EasyOCR and logo_detect</div>
                                     </div>
                                 </div>
                             </section>
@@ -2803,26 +2805,22 @@ fix(service): fix failed to download file(s) error</div>
                                     </svg>
                                     <div class="content">
                                         Pushed 2 commits in
-                                        <span class="repo">huski-inc/product_risk_analysis_img</span>
+                                        <span class="repo">huski-inc/product_risk_analysis_text</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#77f404e</div>
-                                        <div class="message">Merge pull request #16 from huski-inc/feat/sangshuduo/csv-as-input
+                                        <div class="sha">#ba69c8a</div>
+                                        <div class="message">Merge pull request #20 from huski-inc/fix/sangshuduo/invalid-csv
 
-fix(service): fix failed to download file(s) error</div>
+fix(sqs_handler): Add import for pathlib</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#5a59e3b</div>
-                                        <div class="message">fix(service): fix failed to download file(s) error
+                                        <div class="sha">#426a5ad</div>
+                                        <div class="message">fix(sqs_handler): Add import for pathlib
 
-- Add error handling for failed file downloads
-- Log the result of the error
-- Return appropriate response in case of error
-
-https://github.com/huski-inc/product_risk_analysis_img/issues/13</div>
+- Import `Path` from `pathlib` module</div>
                                     </div>
                                 </div>
                             </section>
@@ -3196,7 +3194,7 @@ thanks</div>
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="301.01 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="301.11333333333334 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g stroke-width="2" fill="none" fill-rule="evenodd">
@@ -3224,7 +3222,7 @@ thanks</div>
                                     <span class="prefix">Master</span>
                                     contributor
                                 </div>
-                                <div class="text">Opened 3913 pull requests</div>
+                                <div class="text">Opened 3914 pull requests</div>
                             </div>
                         </div>
                         <div class="achievement s largeable-width-half">
@@ -3523,7 +3521,7 @@ thanks</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 18 Dec 2024, 14:17:39 (timezone Canada/Atlantic) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 18 Dec 2024, 15:10:22 (timezone Canada/Atlantic) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
