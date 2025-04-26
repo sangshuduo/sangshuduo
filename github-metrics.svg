@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="3285" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="3262" class="">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.center{justify-content:center}.horizontal-wrap{flex-wrap:wrap}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}.no-margin-top{margin-top:0}.avatar{border-radius:50%;margin:0 6px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details{display:flex;justify-content:space-between}.field.language.details small,.field.license.details small{display:flex;justify-content:space-between;color:#666;text-align:right}.field.language.details small&gt;*,.field.language.details&gt;*{flex:1 1 0}.field.language.details small&gt;:not(:last-child){margin-right:6px}.followup.legend{font-size:12px;flex-wrap:wrap}.followup.legend .field{width:46%;justify-content:flex-start;margin-left:8px}.followup.legend svg{margin:0 3px;width:14px;height:14px}.followup.legend svg:first-child{margin-left:0}.followup.legend svg:last-child{margin-right:0}.followup-title{white-space:initial}.repository,footer{display:flex;flex-direction:column}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;justify-content:flex-end;padding:0 4px}.repository{width:100%;margin:6px 0}.repository .name{display:flex;align-items:center;justify-content:space-between;width:440px}.repository .name span:first-child{color:#58a6ff}.repository .name span:last-child{color:#666;font-size:10px}.repository .description{display:block;width:440px;white-space:normal}.repository .description,.repository .infos{color:#666;margin-left:38px;font-size:13px}.repository .infos&gt;div{display:flex;align-items:center;margin-right:16px}.repository .infos svg{margin:0 4px 0 0}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .user{font-weight:600}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}.activity .details&gt;.comment{overflow:hidden;text-overflow:ellipsis;display:block;width:420px;margin-top:6px;border-left:3px solid #777777b2;padding-left:6px;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}svg.calendar{margin-left:13px;margin-top:4px}svg.calendar text{font-size:18px;fill:currentColor}.added{color:#3fb950}.people{padding:0 10px}.people .avatar{margin:0 2px}.project .description{overflow:hidden;text-overflow:ellipsis;display:block;width:420px;margin-left:37px;max-height:38px;font-size:12px;white-space:normal;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}.field.license.details{display:flex;justify-content:space-between}.stackoverflow{margin-left:38px}.stackoverflow .entry{margin:4px 0 12px}.stackoverflow .title{color:#58a6ff;white-space:normal;align-items:flex-start}.stackoverflow .body,.stackoverflow .infos{color:#666;font-size:13px;margin-left:32px}.stackoverflow .infos{display:flex;align-items:center}.stackoverflow .infos&gt;div{display:inline-flex;align-items:center;margin-right:16px}.stackoverflow .infos svg{fill:currentColor;height:12px;width:12px;margin:0 4px 0 0;flex-shrink:0}.stackoverflow .body{overflow:hidden;text-overflow:ellipsis;border-left:3px solid #777777b2;padding-left:6px;width:400px}.markdown b,.markdown i{display:inline-block;width:97%}.markdown a{color:#58a6ff;text-decoration:none}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}code[class^=language-]{white-space:pre-wrap;width:97%;margin-top:4px}.token.comment{color:#690}.token.trimmed{font-style:italic;color:#77777760}.space{margin-left:7px}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}.stackoverflow .body{display:-webkit-box;-webkit-box-orient:vertical;-webkit-line-clamp:4}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.center{justify-content:center}.horizontal-wrap{flex-wrap:wrap}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}.no-margin-top{margin-top:0}.avatar{border-radius:50%;margin:0 6px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details{display:flex;justify-content:space-between}.field.language.details small,.field.license.details small{display:flex;justify-content:space-between;color:#666;text-align:right}.field.language.details small&gt;*,.field.language.details&gt;*{flex:1 1 0}.field.language.details small&gt;:not(:last-child){margin-right:6px}.followup.legend{font-size:12px;flex-wrap:wrap}.followup.legend .field{width:46%;justify-content:flex-start;margin-left:8px}.followup.legend svg{margin:0 3px;width:14px;height:14px}.followup.legend svg:first-child{margin-left:0}.followup.legend svg:last-child{margin-right:0}.followup-title{white-space:initial}.repository,footer{display:flex;flex-direction:column}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;justify-content:flex-end;padding:0 4px}.repository{width:100%;margin:6px 0}.repository .name{display:flex;align-items:center;justify-content:space-between;width:440px}.repository .name span:first-child{color:#58a6ff}.repository .name span:last-child{color:#666;font-size:10px}.repository .description{display:block;width:440px;white-space:normal}.repository .description,.repository .infos{color:#666;margin-left:38px;font-size:13px}.repository .infos&gt;div{display:flex;align-items:center;margin-right:16px}.repository .infos svg{margin:0 4px 0 0}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}svg.calendar{margin-left:13px;margin-top:4px}svg.calendar text{font-size:18px;fill:currentColor}.added{color:#3fb950}.people{padding:0 10px}.people .avatar{margin:0 2px}.project .description{overflow:hidden;text-overflow:ellipsis;display:block;width:420px;margin-left:37px;max-height:38px;font-size:12px;white-space:normal;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}.field.license.details{display:flex;justify-content:space-between}.stackoverflow{margin-left:38px}.stackoverflow .entry{margin:4px 0 12px}.stackoverflow .title{color:#58a6ff;white-space:normal;align-items:flex-start}.stackoverflow .body,.stackoverflow .infos{color:#666;font-size:13px;margin-left:32px}.stackoverflow .infos{display:flex;align-items:center}.stackoverflow .infos&gt;div{display:inline-flex;align-items:center;margin-right:16px}.stackoverflow .infos svg{fill:currentColor;height:12px;width:12px;margin:0 4px 0 0;flex-shrink:0}.stackoverflow .body{overflow:hidden;text-overflow:ellipsis;border-left:3px solid #777777b2;padding-left:6px;width:400px}.markdown b,.markdown i{display:inline-block;width:97%}.markdown a{color:#58a6ff;text-decoration:none}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}code[class^=language-]{white-space:pre-wrap;width:97%;margin-top:4px}.token.trimmed{font-style:italic;color:#77777760}.space{margin-left:7px}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}.stackoverflow .body{display:-webkit-box;-webkit-box-orient:vertical;-webkit-line-clamp:4}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -69,7 +69,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            29836 Commits
+                            29837 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -177,7 +177,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    94.7k added, 61.4k removed
+                                    36.1m added, 126k removed
                                 </div>
                             </section>
                             <section>
@@ -2717,51 +2717,75 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 1 commit in
+                                        Pushed 44 commits in
                                         <span class="repo">huski-inc/video-deep-research</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">feat/sangshuduo/db-ops</span></div>
+                                    <div>on branch <span class="code">feat/sangshuduo/add-tools</span></div>
                                     <div class="commit">
-                                        <div class="sha">#06ca73c</div>
-                                        <div class="message">Update batch/db_bulk_write.py
+                                        <div class="sha">#1d0267f</div>
+                                        <div class="message">fix(docker): update Dockerfile and dependencies for CUDA support
 
-Co-authored-by: Copilot &lt;175728472+Copilot@users.noreply.github.com&gt;</div>
+- Changed base image to NVIDIA CUDA runtime for better compatibility
+- Added installation of Python 3 and pip in both builder and final stages
+- Updated Python dependencies and added GroundingDINO repository
+- Improved file handling and error reporting in video processing script</div>
                                     </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M7.177 3.073L9.573.677A.25.25 0 0110 .854v4.792a.25.25 0 01-.427.177L7.177 3.427a.25.25 0 010-.354zM3.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122v5.256a2.251 2.251 0 11-1.5 0V5.372A2.25 2.25 0 011.5 3.25zM11 2.5h-1V4h1a1 1 0 011 1v5.628a2.251 2.251 0 101.5 0V5A2.5 2.5 0 0011 2.5zm1 10.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0zM3.75 12a.75.75 0 100 1.5.75.75 0 000-1.5z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Opened
-                                        <span class="issue">#70 fix(batch): improve error handling and extract timing from filenames</span>
+                                    <div class="commit">
+                                        <div class="sha">#ccefa29</div>
+                                        <div class="message">Merge pull request #67 from huski-inc/fix/michaelo137/whisper_cpu_fallback
+
+Adds a fallback to CPU and float32 when loading the default Whisper</div>
                                     </div>
-                                </div>
-                                <div class="details">
-                                    <div> in <span class="repo">huski-inc/video-deep-research</span></div>
-                                    <div>1 file changed <span class="code">++53 --12</span></div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 35 commits in
-                                        <span class="repo">huski-inc/video-deep-research</span>
+                                    <div class="commit">
+                                        <div class="sha">#f44e53d</div>
+                                        <div class="message">Adds a fallback to CPU and float32 when loading the default Whisper
+model fails
+Useful for running on a Mac</div>
                                     </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">feat/sangshuduo/db-ops</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#57009d2</div>
+                                        <div class="message">fix: add executor complete tasks call</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#f9e1d9a</div>
+                                        <div class="message">add final report</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#40dd588</div>
+                                        <div class="message">Removes the user_.../job_... path from the data paths given to the stats
+analysis
+Acquiesces to the Agent's insistence on using "object" instead of
+"objects"</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#ac083f6</div>
+                                        <div class="message">Adds specific field ES search
+Sets the data_analysis to use the local data dir</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#fe1667a</div>
+                                        <div class="message">Merge pull request #66 from huski-inc/feat/camille/final_report_v2
+
+add final report</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#e4e1474</div>
+                                        <div class="message">Merge pull request #64 from huski-inc/feat/michaelo137/more_es_search
+
+Feat/michaelo137/more es search</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#9ac9d1c</div>
+                                        <div class="message">add final report</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#2dc6a2e</div>
+                                        <div class="message">Merge pull request #65 from huski-inc/feat/sangshuduo/video-pipeline-service
+
+fix(video_processor): handle model download failure</div>
+                                    </div>
                                     <div class="commit">
                                         <div class="sha">#056e9c0</div>
                                         <div class="message">fix(video_processor): handle model download failure
@@ -2817,93 +2841,6 @@ Adds a data_context_dict that stores the local data locations</div>
                                         <div class="sha">#025e105</div>
                                         <div class="message">Start of adding search tools</div>
                                     </div>
-                                    <div class="commit">
-                                        <div class="sha">#bb2392f</div>
-                                        <div class="message">Merge pull request #58 from huski-inc/feat/sangshuduo/clarify-service
-
-feat(planner): add functions for refined question and follow-up answers</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#68b6b03</div>
-                                        <div class="message">fix(webapp_video_deep_research): handle download and read errors
-
-- Added error handling for downloading files from S3.
-- Log errors and raise HTTP exceptions when download fails.
-- Added error handling for reading the downloaded file.
-- Ensure robust behavior when file operations encounter issues.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#4a7daf5</div>
-                                        <div class="message">merge with main branch</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#5a1cc19</div>
-                                        <div class="message">fix(config): update service name references
-
-- Changed the service name from 'video-deep-research-queservice' to 'video-deep-research-execute-plan' in the config template.
-- Updated default S3 bucket name in the Python script and test file to reflect the new service name.
-- Ensures consistency across the codebase for service identification.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#88f0ac4</div>
-                                        <div class="message">fix(api): update message processing for user queries
-
-- Rename `mock-confirm-to-start` to `mock-execute-research-plan` for clarity.
-- Enhance error handling for missing fields in message body.
-- Refactor data extraction to ensure `request_type`, `data`, and `task_id` are present.
-- Adjust structure of message to encapsulate user query and additional info under `data`.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#4ecfeba</div>
-                                        <div class="message">fix(Dockerfile): add mainlogic and tools to Docker image
-
-- Add mainlogic directory to the Docker image.
-- Add tools directory to the Docker image.
-- Change AWS_REGION variable assignment to a fixed value `us-west-2`.
-- Fix the VERSION-queservice file check by removing extra space in the filename.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#865cb68</div>
-                                        <div class="message">fix(webapp_video_deep_research): fix attribute access in user queries
-
-- Corrected attribute access for `user_query` and related fields in the `clarification`, `generate_research_plan`, and `research_result_qs` functions.
-- Ensured consistent access to data attributes, improving code reliability and maintainability.
-- This change resolves potential issues with accessing user query data.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#8cb5f5f</div>
-                                        <div class="message">feat(queservice): integrate todo_list in queservice
-
-- Updated the clarification endpoint from `/clarify` to `/clarification` for consistency.
-- Changed the research plan endpoint from `/start_research` to `/generate_research_plan` to better reflect its functionality.
-- Adjusted the response models to ensure they align with the new endpoint paths.
-- Improved example curl commands in the README to match the updated endpoints.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#d3c3226</div>
-                                        <div class="message">fix(planner): update endpoint in README and refactor imports
-
-- Updated the API endpoint in the README from 'ask_more_questions' to 'answer_more_questions'.
-- Refactored the import statements in 'webapp_video_deep_research.py' to import functions from 'planner_webinterface' instead of 'planner'.
-
- I will split ask_for_clarifications(), start_research() and new answer_followup_question() function out to a new .py file from mainlogic/planner.py. Since the service provide those web interface need be packed in a Docker image but  planner imports executor, executor imports tools, tools imports video_process leads a complex dependencies including CUDA making the web API docker image inflated.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#2c37840</div>
-                                        <div class="message">docs(readme): update server IP references in API examples
-
-- Updated API examples to replace hardcoded IP addresses with &lt;SERVER_IP&gt;.
-- Added a new section for asking more questions with a curl example.
-- Improved clarity and maintainability of the README.md.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#a592c04</div>
-                                        <div class="message">feat(planner): add functions for refined question and follow-up answers
-
-- Introduced `get_refined_question` to format user queries and research report content.
-- Added `get_answer_more_question` to generate responses based on the refined questions using the OpenAI API.
-- Updated the `webapp_video_deep_research.py` to include new functions and created an endpoint for handling follow-up questions.</div>
-                                    </div>
                                 </div>
                             </section>
                         </div>
@@ -2914,128 +2851,120 @@ feat(planner): add functions for refined question and follow-up answers</div>
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 61 commits in
+                                        Pushed 16 commits in
                                         <span class="repo">huski-inc/video-deep-research</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">feat/sangshuduo/db-ops</span></div>
+                                    <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#dbf3391</div>
-                                        <div class="message">add basic testing function to stats_analysis</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#b19e7f3</div>
-                                        <div class="message">add code_executor back-in</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#947e3c1</div>
-                                        <div class="message">improve error handling in docker_runner</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#562557a</div>
-                                        <div class="message">fix query logic in prompt_user</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#204386d</div>
-                                        <div class="message">feat(video_pipeline): add Dockerfile and deployment scripts
+                                        <div class="sha">#bb4484a</div>
+                                        <div class="message">Merge pull request #69 from huski-inc/feat/sangshuduo/confirm-to-start-service
 
-- Create a multi-stage Dockerfile for building and running the video deep research pipeline.
-- Add scripts for checking and updating the Docker container.
-- Include requirements for Python packages in requirements.txt.
-- Implement AWS ECR integration for Docker image management.
-- Establish versioning with VERSION-pipeline file.</div>
+fix(executor): add openai_client parameter to methods</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#5d636a8</div>
-                                        <div class="message">reorganize and fix bugs</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#5812c15</div>
-                                        <div class="message">clean-up litellm interface</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#2c47e49</div>
-                                        <div class="message">Merge pull request #48 from huski-inc/feat/michaelo137/add_pres_builder
+                                        <div class="sha">#8197b37</div>
+                                        <div class="message">Update README.md
 
-Adds the presentation building tools</div>
+Co-authored-by: Copilot &lt;175728472+Copilot@users.noreply.github.com&gt;</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#c015660</div>
-                                        <div class="message">Adds the presentation building tools</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#7794eea</div>
-                                        <div class="message">integrate Docker functionality to stats analysis; separate LiteLLM interface</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#0d0e0e0</div>
-                                        <div class="message">Merge pull request #44 from huski-inc/feat/sangshuduo/confirm-to-start-service
+                                        <div class="sha">#2224feb</div>
+                                        <div class="message">fix(scripts): update AWS region and enhance Docker run command
 
-feat: confirm-to-start service</div>
+- Update AWS_REGION to a fixed value 'us-west-2'.
+- Comment out the previous method of obtaining the AWS region.
+- Implement logic to find and log the spare GPU before running the Docker container.
+- Include additional volume mounts for message caching and failed messages.</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#1358eb1</div>
-                                        <div class="message">Merge pull request #41 from huski-inc/feat/sangshuduo/db-ops
+                                        <div class="sha">#dab426d</div>
+                                        <div class="message">fix(video_deep_research): update error handling in process_msg
 
-fix(batch): process extra results for video and scene files</div>
+- Change return value to True when handling missing message body fields.
+- Ensure consistent return value format to indicate processing success even when errors are present.
+- Provide clearer feedback for missing fields: request_type, data, task_id, and user_id.</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#34a544f</div>
-                                        <div class="message">fix(queservice): update version file check and retrieval
+                                        <div class="sha">#89dad3e</div>
+                                        <div class="message">Merge branch 'main' into feat/sangshuduo/confirm-to-start-service</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#990b780</div>
+                                        <div class="message">Merge branch 'feat/sangshuduo/confirm-to-start-service' of github.com:huski-inc/video-deep-research into feat/sangshuduo/confirm-to-start-service</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#177d348</div>
+                                        <div class="message">fix(tests): handle missing user_id in SQS message
 
-- Update the path for the version file check to 'queservice_video_deep_research/VERSION-queservice'.
-- Change the error message to reflect the new version file location.
-- Retrieve the version from the updated path for consistency.</div>
+- Added a check for 'user_id' in json_content before assigning it to the message data.
+- Updated log message to include output_queue_url for better context.</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#0a458ce</div>
-                                        <div class="message">docs(mock-confirm-to-start-result): update image in web scraping documentation
+                                        <div class="sha">#4985db1</div>
+                                        <div class="message">fix(executor): add openai_client parameter to methods
 
-- Updated the image to reflect the latest Scrapy architecture.
-- Changed the image source from an outdated link to the current official documentation.</div>
+- Added openai_client parameter to several methods in DynamicTodoAgent class.
+- Updated complete_tasks method to pass openai_client to complete_tasks_v2.
+- Enhanced the ask_llm_for_decision and generate_llm_response methods to utilize openai_client for OpenAI API calls.</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#caee2e6</div>
-                                        <div class="message">fix(Dockerfile): add tools directory to Docker image
+                                        <div class="sha">#4d893c1</div>
+                                        <div class="message">fix(docker): update dependencies and rename files
 
-- Added the tools directory to the Docker image.
-- Updated the configure_app function to require non-optional parameters.
-- Ensured that the function returns True on successful configuration.</div>
+- Added python-is-python3 to the Dockerfile dependencies.
+- Renamed batch_img_llm_call.py to video_process/batch_img_llm_call.py.
+- Updated import statement in object_detector.py to reflect the new path.</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#1e2e45e</div>
-                                        <div class="message">fix(docker): update file paths and AWS region settings
+                                        <div class="sha">#ca4a454</div>
+                                        <div class="message">fix(docker): update Dockerfile and dependencies for CUDA support
 
-- Updated Dockerfile to copy 'mainlogic' instead of 'planning'.
-- Changed AWS_REGION assignment to a static value 'us-west-2'.
-- Commented out the dynamic AWS_REGION fetching to prevent potential issues.</div>
+- Changed base image to NVIDIA CUDA runtime for better compatibility
+- Added installation of Python 3 and pip in both builder and final stages
+- Updated Python dependencies and added GroundingDINO repository
+- Improved file handling and error reporting in video processing script</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#93ddf70</div>
-                                        <div class="message">docs(api): update README with new confirm-to-start API details
+                                        <div class="sha">#03b43e8</div>
+                                        <div class="message">fix: add executor complete tasks call</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#351f5be</div>
+                                        <div class="message">fix(tests): handle missing user_id in SQS message
 
-- Updated section headers to improve readability
-- Added details about the new confirm-to-start API feature, including its purpose and usage
-- Included information on input and output queues for the API
-- Provided example payloads for confirming research tasks</div>
+- Added a check for 'user_id' in json_content before assigning it to the message data.
+- Updated log message to include output_queue_url for better context.</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#01f0923</div>
-                                        <div class="message">fix(docker): update Dockerfiles to include Git installation and version files
+                                        <div class="sha">#5dd1da1</div>
+                                        <div class="message">fix(executor): add openai_client parameter to methods
 
-- Added installation of git in Dockerfiles for queservice and webapp.
-- Introduced ARG for GITHUB_TOKEN to manage private repository access.
-- Updated requirements.txt to include ai-telemetry package using the GITHUB_TOKEN.
-- Copied VERSION files to the application directory for version tracking.</div>
+- Added openai_client parameter to several methods in DynamicTodoAgent class.
+- Updated complete_tasks method to pass openai_client to complete_tasks_v2.
+- Enhanced the ask_llm_for_decision and generate_llm_response methods to utilize openai_client for OpenAI API calls.</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#5ec081c</div>
-                                        <div class="message">fix: remove download models func</div>
+                                        <div class="sha">#a8c1ab5</div>
+                                        <div class="message">fix(docker): update dependencies and rename files
+
+- Added python-is-python3 to the Dockerfile dependencies.
+- Renamed batch_img_llm_call.py to video_process/batch_img_llm_call.py.
+- Updated import statement in object_detector.py to reflect the new path.</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#ff6f152</div>
-                                        <div class="message">feat: confirm-to-start service</div>
+                                        <div class="sha">#1d0267f</div>
+                                        <div class="message">fix(docker): update Dockerfile and dependencies for CUDA support
+
+- Changed base image to NVIDIA CUDA runtime for better compatibility
+- Added installation of Python 3 and pip in both builder and final stages
+- Updated Python dependencies and added GroundingDINO repository
+- Improved file handling and error reporting in video processing script</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#57009d2</div>
+                                        <div class="message">fix: add executor complete tasks call</div>
                                     </div>
                                 </div>
                             </section>
@@ -3044,16 +2973,83 @@ fix(batch): process extra results for video and scene files</div>
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
+                                        <path fill-rule="evenodd" d="M7.177 3.073L9.573.677A.25.25 0 0110 .854v4.792a.25.25 0 01-.427.177L7.177 3.427a.25.25 0 010-.354zM3.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122v5.256a2.251 2.251 0 11-1.5 0V5.372A2.25 2.25 0 011.5 3.25zM11 2.5h-1V4h1a1 1 0 011 1v5.628a2.251 2.251 0 101.5 0V5A2.5 2.5 0 0011 2.5zm1 10.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0zM3.75 12a.75.75 0 100 1.5.75.75 0 000-1.5z"/>
                                     </svg>
                                     <div class="content">
-                                        Commented on
+                                        Merged
                                         <span class="issue">#69 fix(executor): add openai_client parameter to methods</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>opened by sangshuduo in <span class="repo">huski-inc/video-deep-research</span></div>
-                                    <div class="comment">@cliotine-huski I added openai_client in the input parameters for a few functions because passing OPENAI_API_KEY as an environment variable is less secure in product deployment.</div>
+                                    <div> in <span class="repo">huski-inc/video-deep-research</span></div>
+                                    <div>12 files changed <span class="code">++131 --40</span></div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 5 commits in
+                                        <span class="repo">huski-inc/video-deep-research</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#4878c3c</div>
+                                        <div class="message">Merge pull request #70 from huski-inc/feat/sangshuduo/db-ops
+
+fix(batch): improve error handling and extract timing from filenames</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#06ca73c</div>
+                                        <div class="message">Update batch/db_bulk_write.py
+
+Co-authored-by: Copilot &lt;175728472+Copilot@users.noreply.github.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#8b03473</div>
+                                        <div class="message">Merge branch 'feat/sangshuduo/db-ops' of github.com:huski-inc/video-deep-research into feat/sangshuduo/db-ops</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#adecab4</div>
+                                        <div class="message">fix(batch): improve error handling and extract timing from filenames
+
+- Added extraction of start and end times from filenames for better tracking.
+- Implemented retry logic for video search requests with exponential backoff.
+- Improved logging for warnings and errors during object processing and API calls.
+- Skipped file downloads if they already exist locally to prevent unnecessary operations.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#0b07bf2</div>
+                                        <div class="message">fix(batch): improve error handling and extract timing from filenames
+
+- Added extraction of start and end times from filenames for better tracking.
+- Implemented retry logic for video search requests with exponential backoff.
+- Improved logging for warnings and errors during object processing and API calls.
+- Skipped file downloads if they already exist locally to prevent unnecessary operations.</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M7.177 3.073L9.573.677A.25.25 0 0110 .854v4.792a.25.25 0 01-.427.177L7.177 3.427a.25.25 0 010-.354zM3.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122v5.256a2.251 2.251 0 11-1.5 0V5.372A2.25 2.25 0 011.5 3.25zM11 2.5h-1V4h1a1 1 0 011 1v5.628a2.251 2.251 0 101.5 0V5A2.5 2.5 0 0011 2.5zm1 10.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0zM3.75 12a.75.75 0 100 1.5.75.75 0 000-1.5z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Merged
+                                        <span class="issue">#70 fix(batch): improve error handling and extract timing from filenames</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div> in <span class="repo">huski-inc/video-deep-research</span></div>
+                                    <div>1 file changed <span class="code">++61 --12</span></div>
                                 </div>
                             </section>
                         </div>
@@ -3395,7 +3391,7 @@ thanks</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 26 Apr 2025, 19:11:55 (timezone Canada/Atlantic) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 26 Apr 2025, 20:12:24 (timezone Canada/Atlantic) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
