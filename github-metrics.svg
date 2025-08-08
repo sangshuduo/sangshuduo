@@ -69,7 +69,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            33627 Commits
+                            33626 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -177,7 +177,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    114k added, 57.4k removed
+                                    134k added, 91.9k removed
                                 </div>
                             </section>
                             <section>
@@ -2527,7 +2527,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
                                         </svg>
-                                        843
+                                        844
                                     </div>
                                     <div>
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -2705,6 +2705,144 @@
                 </h2>
                 <div class="row">
                     <section>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">huski-inc/classifications</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#b72b0d4</div>
+                                        <div class="message">fix(kubernetes): update image-fetching logic to use digest (#162)
+
+* feat(kubernetes): add deployment and image updater scripts
+
+- Add Kubernetes deployment scripts for classifications service.
+- Include CronJob for automatic image updates from ECR.
+- Update .gitignore to exclude CLAUDE.md.
+- Modify pre- commit configuration to allow multiple documents in YAML.
+
+* docs(kubernetes): add Metrics Server installation and troubleshooting instructions
+
+- Added installation instructions for Metrics Server.
+- Explained the necessity of Metrics Server for resource monitoring and HPA functionality.
+- Provided commands to verify installation and check metrics availability.
+- Included troubleshooting steps for common Metrics Server issues.
+
+* perf(kubernetes): optimize resource requests and scaling parameters
+
+- Updated CPU and memory requests for deployment.
+- Increased minimum and maximum replica counts for better scaling.
+- Adjusted queue length for improved responsiveness.
+- Reduced stabilization window and scaling policies for faster scaling adjustments.
+
+* docs(kubernetes): update README examples for scaling settings
+
+- Updated max replicas example from 48 to 16 and added --type merge flag.
+- Clarified command structure for modifying queue length threshold.
+
+* feat(ecr-secret): add automated ECR secret management
+
+- Introduced automated ECR secret refresh to prevent authentication failures.
+- Added CronJob to refresh ECR secrets every 6 hours.
+- Created necessary RBAC permissions for secret management.
+- Included scripts for manual and automated secret refresh operations.
+
+* fix(kubernetes): update deployment references in scripts
+
+- Update scripts to refer to Deployment instead of StatefulSet.
+- Modify ECR image URLs to dynamically use AWS account and region.
+- Ensure proper logging for deployment updates and ECR secret refresh.
+
+* fix(keda): reduce maxReplicaCount to 8
+
+- Changed maxReplicaCount from 60 to 8.
+- This adjustment aims to optimize resource usage and scaling behavior.
+- The previous maximum allowed scaling beyond necessary capacity, impacting performance.
+
+* fix(kubernetes): update README and scripts for StatefulSet deployment
+
+- Changed the README to clarify that the classifications service is deployed as a StatefulSet with KEDA autoscaling.
+- Updated command examples to reflect new modes and parameters for StatefulSet.
+- Revised deployment scripts to create necessary host directory structures for StatefulSet pods.
+
+* fix(kubernetes): update directory creation logic in deploy script
+
+- Modify pod directory naming convention to include classifications and deploy mode.
+- Check for existing directories to avoid unnecessary creation.
+- Ensure tmp and local subdirectories are created if they don't exist.
+- Update statefulset.yaml to add pod-local-volume for local storage.
+
+* fix(docs): update README and deploy script for tmp volume removal
+
+- Remove TMP volume parameter from README and deploy script.
+- Update README examples to reflect changes in tmp volume configuration.
+- Clarify tmp volume mapping in directory structure section.
+
+* fix(kubernetes): remove optional volume parameters from README and script
+
+- Removed optional parameters for volume mount path and size from README.
+- Updated deployment script to eliminate unused variables for volume configuration.
+- Simplified usage instructions for deploying the StatefulSet.
+
+* fix(kubernetes): improve auto-updater documentation
+
+- Enhanced the README to clarify auto-updater functionality
+- Added deployment instructions for EC2 and Data modes
+- Included commands to monitor and view auto-updater logs
+- Documented auto-update behavior and checks every 5 minutes
+- Fixed YAML configuration to use quotes for AWS_ACCOUNT_ID
+
+* fix(kubernetes): update image updater documentation and scripts
+
+- Added new section for Image Updater Issues with troubleshooting commands.
+- Updated echo statements in the image updater script for better readability by escaping variables.
+- Ensured that StatefulSets use 'imagePullPolicy: Always' with ':latest' tags for immediate updates.
+
+* fix(kubernetes): update date command syntax in cronjob script
+
+- Changed backticks to dollar sign and parentheses for date command.
+- This improves compatibility with the shell scripting.
+- Ensures the correct execution of the date command in the image updater cronjob.
+
+* fix(kubernetes): update image-fetching logic to use digest
+
+- Change from fetching latest image tag to fetching latest image digest from ECR for the 'latest' tag.
+- Update error handling to reflect changes in the retrieval process.
+- Enhance comparison logic to use image digests instead of tags.
+- Adjust rollout timeout for stateful sets to ensure successful updates.
+
+---------
+
+Co-authored-by: Claude &lt;noreply@anthropic.com&gt;</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M7.177 3.073L9.573.677A.25.25 0 0110 .854v4.792a.25.25 0 01-.427.177L7.177 3.427a.25.25 0 010-.354zM3.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122v5.256a2.251 2.251 0 11-1.5 0V5.372A2.25 2.25 0 011.5 3.25zM11 2.5h-1V4h1a1 1 0 011 1v5.628a2.251 2.251 0 101.5 0V5A2.5 2.5 0 0011 2.5zm1 10.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0zM3.75 12a.75.75 0 100 1.5.75.75 0 000-1.5z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Merged
+                                        <span class="issue">#162 fix(kubernetes): update image-fetching logic to use digest</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div> in <span class="repo">huski-inc/classifications</span></div>
+                                    <div>1 file changed <span class="code">++30 --19</span></div>
+                                </div>
+                            </section>
+                        </div>
                         <div class="row fill-width">
                             <section class="activity">
                                 <div class="field">
@@ -2898,40 +3036,6 @@ Co-authored-by: Claude &lt;noreply@anthropic.com&gt;</div>
 - Comment out the removal of the tar file in classifications.py to prevent accidental deletion.
 - This change ensures that the tar file remains for further inspection after extraction.</div>
                                     </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M7.177 3.073L9.573.677A.25.25 0 0110 .854v4.792a.25.25 0 01-.427.177L7.177 3.427a.25.25 0 010-.354zM3.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122v5.256a2.251 2.251 0 11-1.5 0V5.372A2.25 2.25 0 011.5 3.25zM11 2.5h-1V4h1a1 1 0 011 1v5.628a2.251 2.251 0 101.5 0V5A2.5 2.5 0 0011 2.5zm1 10.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0zM3.75 12a.75.75 0 100 1.5.75.75 0 000-1.5z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Merged
-                                        <span class="issue">#160 fix(classifications): do not remove the argo tar file</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div> in <span class="repo">huski-inc/classifications</span></div>
-                                    <div>2 files changed <span class="code">++2 --2</span></div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M7.177 3.073L9.573.677A.25.25 0 0110 .854v4.792a.25.25 0 01-.427.177L7.177 3.427a.25.25 0 010-.354zM3.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122v5.256a2.251 2.251 0 11-1.5 0V5.372A2.25 2.25 0 011.5 3.25zM11 2.5h-1V4h1a1 1 0 011 1v5.628a2.251 2.251 0 101.5 0V5A2.5 2.5 0 0011 2.5zm1 10.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0zM3.75 12a.75.75 0 100 1.5.75.75 0 000-1.5z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Opened
-                                        <span class="issue">#160 fix(classifications): do not remove the argo tar file</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div> in <span class="repo">huski-inc/classifications</span></div>
-                                    <div>2 files changed <span class="code">++2 --2</span></div>
                                 </div>
                             </section>
                         </div>
@@ -3273,7 +3377,7 @@ thanks</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 8 Aug 2025, 01:44:28 (timezone Canada/Atlantic) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 8 Aug 2025, 03:24:05 (timezone Canada/Atlantic) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
