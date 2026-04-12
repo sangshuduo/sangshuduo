@@ -2463,7 +2463,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>metaspartan/mactop</span>
-                                        <span>starred 24 hours ago</span>
+                                        <span>starred 1 day ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">mactop - Apple Silicon Monitor Top</div>
@@ -2516,7 +2516,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>J-x-Z/cocoa-way</span>
-                                        <span>starred 24 hours ago</span>
+                                        <span>starred 1 day ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Native macOS Wayland Compositor written in Rust using Smithay. Experience seamless Linux app streaming on macOS without XQuartz.</div>
@@ -2569,7 +2569,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>matthart1983/netwatch</span>
-                                        <span>starred 24 hours ago</span>
+                                        <span>starred 1 day ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Real-time network diagnostics in your terminal. One command, zero config, instant visibility.</div>
@@ -3059,7 +3059,7 @@ thanks</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 12 Apr 2026, 01:45:13 (timezone Canada/Atlantic) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 12 Apr 2026, 03:21:24 (timezone Canada/Atlantic) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
