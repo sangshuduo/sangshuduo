@@ -2454,7 +2454,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>ad-si/Woxi</span>
-                                        <span>starred 1 hour ago</span>
+                                        <span>starred 2 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Wolfram Language / Mathematica reimplementation in Rust (Wolfram oxidized)</div>
@@ -2507,7 +2507,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>iDescriptor/iDescriptor</span>
-                                        <span>starred 1 hour ago</span>
+                                        <span>starred 2 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A free, open-source, and cross-platform iDevice management tool</div>
@@ -2560,7 +2560,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>multica-ai/multica</span>
-                                        <span>starred 18 hours ago</span>
+                                        <span>starred 19 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">The open-source managed agents platform. Turn coding agents into real teammates — assign tasks, track progress, compound skills.</div>
@@ -2613,7 +2613,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>MineDojo/NitroGen</span>
-                                        <span>starred 18 hours ago</span>
+                                        <span>starred 19 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A Foundation Model for Generalist Gaming Agents</div>
@@ -3050,7 +3050,7 @@ thanks</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 16 Apr 2026, 18:37:27 (timezone Canada/Atlantic) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 16 Apr 2026, 19:33:45 (timezone Canada/Atlantic) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
