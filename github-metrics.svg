@@ -2463,7 +2463,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>robinovitch61/kl</span>
-                                        <span>starred 1 hour ago</span>
+                                        <span>starred 2 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">An interactive Kubernetes log viewer for your terminal.</div>
@@ -2516,7 +2516,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>tailscale/tailscale-rs</span>
-                                        <span>starred 2 hours ago</span>
+                                        <span>starred 3 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Rust implementation of Tailscale (preview, experimental)</div>
@@ -2569,7 +2569,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>iamgio/quarkdown</span>
-                                        <span>starred 2 hours ago</span>
+                                        <span>starred 3 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">🪐 Markdown with superpowers: from ideas to papers, presentations, websites, books, and knowledge bases.</div>
@@ -2622,7 +2622,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>ariebovenberg/whenever</span>
-                                        <span>starred 3 hours ago</span>
+                                        <span>starred 4 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">⏰ Modern datetime library for Python</div>
@@ -3059,7 +3059,7 @@ thanks</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 19 Apr 2026, 17:30:10 (timezone Canada/Atlantic) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 19 Apr 2026, 18:29:26 (timezone Canada/Atlantic) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
