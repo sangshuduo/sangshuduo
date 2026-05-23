@@ -2464,7 +2464,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>popovicu/zig-time-sharing-kernel</span>
-                                        <span>starred 12 hours ago</span>
+                                        <span>starred 14 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Minimal implementation of a time-sharing kernel on RISC-V, implemented in Zig, on top of OpenSBI</div>
@@ -2511,7 +2511,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Exorust/TorchLeet</span>
-                                        <span>starred 22 hours ago</span>
+                                        <span>starred 24 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Leetcode for Pytorch</div>
@@ -2558,7 +2558,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>philippemerle/KubeDiagrams</span>
-                                        <span>starred 22 hours ago</span>
+                                        <span>starred 24 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Generate Kubernetes architecture diagrams from Kubernetes manifest files, kustomization files, Helm charts, helmfiles, and actual cluster state</div>
@@ -2611,7 +2611,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>trymirai/uzu</span>
-                                        <span>starred 22 hours ago</span>
+                                        <span>starred 24 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A high-performance inference engine for AI models</div>
@@ -3048,7 +3048,7 @@ thanks</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 23 May 2026, 11:55:35 (timezone Canada/Atlantic) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 23 May 2026, 13:58:25 (timezone Canada/Atlantic) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
